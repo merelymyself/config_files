@@ -10,4 +10,4 @@ git add --all
 
 git commit -m "Date is `date`"
 
-git push -u remotes/origin/main
+git push upstream main
