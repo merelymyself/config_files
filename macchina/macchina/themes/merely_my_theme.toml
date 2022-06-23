@@ -1,0 +1,42 @@
+# merely_my_theme
+
+spacing         = 3
+padding         = 3
+hide_ascii      = true
+separator       = "=="
+key_color       = "#5E81AC"
+separator_color = "#88C0D0"
+
+[palette]
+type = "Dark"
+glyph = "[==] "
+visible = true
+
+[box]
+title = "  Hello, gabriel.  "
+border = "thick"
+visible = true
+
+[box.inner_margin]
+x = 0
+y = 1
+
+[keys]
+host            = "Host"
+kernel          = "Kernel"
+battery         = "Battery"
+os              = "OS"
+de              = "DE"
+wm              = "WM"
+distro          = "Distro"
+terminal        = "Terminal"
+shell           = "Shell"
+packages        = "Packages"
+uptime          = "Uptime"
+memory          = "Memory"
+machine         = "Machine"
+local_ip        = "Local IP"
+backlight       = "Brightness"
+resolution      = "Resolution"
+cpu_load        = "CPU Load"
+cpu             = "CPU"
