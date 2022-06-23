@@ -2,7 +2,7 @@
 
 cp ~/.config/fish/config.fish ./fish
 
-cp -r ~/.config/macchina/ ./macchina
+cp -r ~/.config/macchina/ .
 
 cp ~/.config/alacritty/alacritty.yml ./alacritty
 
