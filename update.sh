@@ -1,6 +1,8 @@
 #!/bin/bash
 
-cp ~/.config/neofetch/config.conf ./neofetch
+cp ~/.config/fish/config.fish ./fish
+
+cp ~/.config/macchina/ ./macchina
 
 cp ~/.config/alacritty/alacritty.yml ./alacritty
 
