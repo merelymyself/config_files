@@ -1,4 +1,3 @@
-" note that I entered nord.nvim and changed settings to allow for a transparent nvim background. Go to the comment Options:, then use -- to comment out everything except the contents of the if statement.
 :set number
 :set tabstop=4
 :set shiftwidth=4
@@ -37,6 +36,7 @@ nnoremap <C-w> :tabnew<CR>
 
 call plug#end()
 
+let g:nord_disable_background = v:true
 :colorscheme nord
 
 set completeopt=menuone,noinsert,noselect
