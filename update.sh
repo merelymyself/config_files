@@ -12,7 +12,7 @@ cp ~/.config/cmus/autosave ./config/cmus
 
 git add --all
 
-if $1; then git commit -m "$1" 
+if [[ $# -gt 0 ]]; then git commit -m "$@" 
 else git commit -m "Date is: $(date)"
 fi
 
