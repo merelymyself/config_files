@@ -12,6 +12,8 @@ cp ~/.config/cmus/autosave ./config/cmus
 
 git add --all
 
-git commit -m "Date is `date`"
+if $1; then git commit -m "$1" 
+else git commit -m "Date is: $(date)"
+fi
 
 git push upstream main
