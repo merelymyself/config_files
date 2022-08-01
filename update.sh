@@ -10,6 +10,8 @@ cp ~/.config/nvim/init.vim ./config/neovim
 
 cp ~/.config/cmus/autosave ./config/cmus
 
+cp ~/.config/neofetch/config.conf ./config/archived/neofetch
+
 git add --all
 
 if [[ $# -gt 0 ]]; then git commit -m "$@" 
