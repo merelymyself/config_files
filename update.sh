@@ -1,16 +1,16 @@
 #!/bin/bash
 
-cp ~/.config/fish/config.fish ./config/fish
+cp ~/.config/fish/config.fish ./.config/fish
 
-cp -r ~/.config/macchina/ ./config
+cp -r ~/.config/macchina/ ./.config/
 
-cp ~/.config/alacritty/alacritty.yml ./config/alacritty
+cp ~/.config/alacritty/ ./.config/
 
-cp ~/.config/nvim/init.vim ./config/neovim
+cp ~/.config/nvim/ ./.config/
 
-cp ~/.config/cmus/autosave ./config/cmus
+cp ~/.config/cmus/autosave ./config/cmus/
 
-cp ~/.config/neofetch/config.conf ./config/archived/neofetch
+cp ~/.config/neofetch/ ./config/archived/neofetch/
 
 git add --all
 
