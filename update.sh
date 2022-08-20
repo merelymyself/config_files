@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp ~/.config/fish/config.fish ./.config/fish
+cp ~/.config/fish/config.fish ./.config/fish/
 
 cp -r ~/.config/macchina/ ./.config/
 
@@ -8,9 +8,9 @@ cp -r ~/.config/alacritty/ ./.config/
 
 cp -r ~/.config/nvim/ ./.config/
 
-cp ~/.config/cmus/autosave ./config/cmus/autosave
+cp ~/.config/cmus/autosave ./.config/cmus/
 
-cp -r ~/.config/neofetch/ ./config/archived/neofetch/
+cp -r ~/.config/neofetch/ ./.config/archived/neofetch/
 
 git add --all
 
