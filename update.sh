@@ -4,13 +4,13 @@ cp ~/.config/fish/config.fish ./.config/fish
 
 cp -r ~/.config/macchina/ ./.config/
 
-cp ~/.config/alacritty/ ./.config/
+cp -r ~/.config/alacritty/ ./.config/
 
-cp ~/.config/nvim/ ./.config/
+cp -r ~/.config/nvim/ ./.config/
 
-cp ~/.config/cmus/autosave ./config/cmus/
+cp ~/.config/cmus/autosave ./config/cmus/autosave
 
-cp ~/.config/neofetch/ ./config/archived/neofetch/
+cp -r ~/.config/neofetch/ ./config/archived/neofetch/
 
 git add --all
 
