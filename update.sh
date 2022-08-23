@@ -8,7 +8,7 @@ cp -r ~/.config/alacritty/ ./.config/
 
 cp -r ~/.config/nvim/ ./.config/
 
-cp ~/.config/cmus/autosave ./.config/cmus/
+cp ~/.config/cmus/rc ./.config/cmus/
 
 cp -r ~/.config/neofetch/ ./.config/archived/neofetch/
 
