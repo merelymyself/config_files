@@ -10,6 +10,8 @@ cp -r ~/.config/nvim/ ./.config/
 
 cp ~/.config/cmus/rc ./.config/cmus/
 
+cp ~/.config/cmus/lib.pl ./.config/cmus/
+
 cp -r ~/.config/neofetch/ ./.config/archived/neofetch/
 
 git add --all
