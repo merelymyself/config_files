@@ -14,6 +14,8 @@ cp ~/.config/cmus/lib.pl ./.config/cmus/
 
 cp -r ~/.config/neofetch/ ./.config/archived/neofetch/
 
+cp -r ~/.mozilla/firefox/6mmgdrc0.gabriel/chrome/ ./.config/firefox/
+
 git add --all
 
 if [[ $# -gt 0 ]]; then git commit -m "$@" 
