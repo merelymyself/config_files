@@ -56,6 +56,7 @@
 /home/gabriel/Music/Floral Fury.ogg
 /home/gabriel/Music/Florence Original Soundtrack 01 Florence.ogg
 /home/gabriel/Music/Flowers Never Bend with the Rainfall.ogg
+/home/gabriel/Music/Franz Ferdinand - Take Me Out.ogg
 /home/gabriel/Music/Free Bird.ogg
 /home/gabriel/Music/Full Confession.ogg
 /home/gabriel/Music/Game of Thrones S8 Official Soundtrack _ The Rains of Castamere - Ramin Djawadi _ WaterTower.ogg
@@ -91,7 +92,6 @@
 /home/gabriel/Music/Kara Main Theme (Kara).ogg
 /home/gabriel/Music/Katana Zero (Ost-Version).ogg
 /home/gabriel/Music/Kiki's Delivery Service song - 'A Town With an Ocean View' ORCHESTRA LIVE by Joe Hisaishi [HD].ogg
-/home/gabriel/Music/Kronos Unveiled.ogg
 /home/gabriel/Music/Kyoto.ogg
 /home/gabriel/Music/Lace (Silksong OST Sample).ogg
 /home/gabriel/Music/Le Festin.ogg

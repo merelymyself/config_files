@@ -16,6 +16,8 @@ cp -r ~/.config/neofetch/ ./.config/archived/neofetch/
 
 cp -r ~/.mozilla/firefox/6mmgdrc0.gabriel/chrome/ ./.config/firefox/
 
+cp ~/.mozilla/firefox/6mmgdrc0.gabriel/user.js ./.config/firefox/
+
 git add --all
 
 if [[ $# -gt 0 ]]; then git commit -m "$@" 
