@@ -97,8 +97,9 @@ output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
 	bindsym Ctrl+Alt+Down exec light -U 5
 
 	# Change volume
-	bindsym XF86AudioRaiseVolume exec --no-startup-id amixer -q set Master 5%+
-	bindsym XF86AudioLowerVolume exec --no-startup-id amixer -q set Master 5%-
+	bindsym XF86AudioRaiseVolume exec --no-startup-id amixer -D pulse -q set Master 5%+ unmute
+	bindsym XF86AudioLowerVolume exec --no-startup-id amixer -D pulse -q set Master 5%- unmute
+	bindsym XF86AudioMute exec --no-startup-id amixer -D pulse set Master 1+ toggle
 
     # Exit sway (logs you out of your Wayland session)
     bindsym $mod+Shift+e exec swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'

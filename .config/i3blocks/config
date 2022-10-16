@@ -1,7 +1,7 @@
 [muted]
 full_text=sound_emoji
-command=if [ amixer get Master | awk '/\[on|off\]/{ print $6 }' | read == "[on]" ]
-interval=3
+command=if [ $(amixer get Master | awk '/\[on|off\]/{ print $6 }' | head -1) == "[on]" ]; then echo "🔊"; else echo "🔇"; fi;
+interval=1
 
 [volume]
 full_text=sound
