@@ -22,7 +22,6 @@
 /home/gabriel/Music/Build That Wall (Zia's Theme).ogg
 /home/gabriel/Music/CaCO3.ogg
 /home/gabriel/Music/Caravan.ogg
-/home/gabriel/Music/Carpenter Brut - You're mine (from Furi original soundtrack).ogg
 /home/gabriel/Music/Cat.ogg
 /home/gabriel/Music/Child.ogg
 /home/gabriel/Music/Chinatown.ogg
@@ -98,6 +97,7 @@
 /home/gabriel/Music/Li Bai.ogg
 /home/gabriel/Music/Low Roar - 'Bones' (feat. Jófríõur Ákadóttir) [Official Audio].ogg
 /home/gabriel/Music/Low Roar - Don't Be So Serious.ogg
+/home/gabriel/Music/Low Roar - 'Nobody Loves Me Like You'.ogg
 /home/gabriel/Music/Low Roar - Slow Down.ogg
 /home/gabriel/Music/Low Roar - St. Eriksplan.ogg
 /home/gabriel/Music/Michael Giacchino - Jyn Erso & Hope Suite (From 'Rogue One - A Star Wars Story'_Audio Only).ogg
@@ -158,7 +158,6 @@
 /home/gabriel/Music/Team Fortress 2 Soundtrack _ Soldier of Dance.ogg
 /home/gabriel/Music/The Bells of Notre Dame.ogg
 /home/gabriel/Music/The City Must Survive.ogg
-/home/gabriel/Music/The Girl with Flaxen Hair.ogg
 /home/gabriel/Music/The hunchback Of Notre Dame Hellfire English (Disney).ogg
 /home/gabriel/Music/The Legend of Ashitaka (Symphonic Suite 'Princess Mononoke' _ Live).ogg
 /home/gabriel/Music/The Mandalorian.ogg
@@ -196,5 +195,6 @@
 /home/gabriel/Music/孫燕姿 - 天黑黑.ogg
 /home/gabriel/Music/有一种悲伤.ogg
 /home/gabriel/Music/李荣浩-歌谣.ogg
+/home/gabriel/Music/蔡健雅-紅色高跟鞋.ogg
 /home/gabriel/Music/薛之謙-Joker-Xue【醜八怪】官方完整版-MV-_曲-李榮浩.ogg
 /home/gabriel/Music/说散就散.ogg

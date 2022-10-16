@@ -18,6 +18,10 @@ cp -r ~/.mozilla/firefox/6mmgdrc0.gabriel/chrome/ ./.config/firefox/
 
 cp ~/.mozilla/firefox/6mmgdrc0.gabriel/user.js ./.config/firefox/
 
+cp -r ~/.config/sway/ ./.config/
+
+cp -r ~/.config/i3blocks/ ./.config/
+
 git add --all
 
 if [[ $# -gt 0 ]]; then git commit -m "$@" 

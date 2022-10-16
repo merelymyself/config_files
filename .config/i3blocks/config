@@ -1,0 +1,20 @@
+[muted]
+full_text=sound_emoji
+command=if [ amixer get Master | awk '/\[on|off\]/{ print $6 }' | read == "[on]" ]
+interval=3
+
+[volume]
+full_text=sound
+command=amixer get Master | awk -F 'Left:|[][]' 'BEGIN {RS=""}{ print $3 }'
+interval=1
+
+[brightness]
+full_text=text2
+command=echo "🔆:$(light)"
+interval=5
+
+[calender]
+full_text=text
+command=date +'%Y-%m-%d %I:%M:%S %p'
+interval=1
+
