@@ -18,7 +18,7 @@ set $term alacritty
 # Your preferred application launcher
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
-set $menu dmenu_path | dmenu | xargs swaymsg exec --
+set $menu ~/.config/sway/launcher.sh
 set $browser firefox
 
 include /etc/sway/config-vars.d/*
@@ -31,7 +31,7 @@ default_border pixel 3
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
+output * bg ~/.config/sway/wallpaper.jpg fill
 #
 # Example configuration:
 #
@@ -230,9 +230,9 @@ bar {
     status_command i3blocks
 
     colors {
-        statusline #ffffff
-        background #323232
-        inactive_workspace #32323200 #32323200 #5c5c5c
+        statusline #e5e9f0
+        background #3b4252
+        focused_workspace #2e3440 #4c566a #e5e9f0
     }
 }
 
