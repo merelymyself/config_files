@@ -1,30 +1,24 @@
-[battery_icon]
-full_text=battery_emoji
-command=bash -c "if [ $(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | awk 'NR==12 { print $2 }') == "discharging" ]; then echo "🔋"; else echo "⚡"; fi;"
-interval=10
+[wifi]
+full_text=wifi
+command=if [ $BLOCK_BUTTON ]; then nm-connection-editor; fi; ~/.config/i3blocks/wifi.sh
+interval=15
 
 [battery_level]
 full_text=battery_level
-command=upower -i /org/freedesktop/UPower/devices/battery_BAT0 | awk 'NR==22 { print $2 }'
+command=bash -c "if [ $(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | awk 'NR==12 { print $2 }') == "discharging" ]; then echo -n "🔋"; else echo -n "⚡"; fi; echo $(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | awk 'NR==22 { print $2 }')"
 interval=5
-
-[muted]
-full_text=sound_emoji
-command=bash -c "if [ $(amixer get Master | awk '/\[on|off\]/{ print $6 }' | head -1) == "[on]" ]; then echo "🔊"; else echo "🔇"; fi;"
-interval=1
 
 [volume]
 full_text=sound
-command=amixer get Master | awk -F 'Left:|[][]' 'BEGIN {RS=""}{ print $3 }'
+command=bash -c "if [ $BLOCK_BUTTON ]; then alacritty -e alsamixer; fi; if [ $(amixer get Master | awk '/\[on|off\]/{ print $6 }' | head -1) == "[on]" ]; then echo -n  "🔊"; else echo -n "🔇"; fi; echo $(amixer get Master | awk -F 'Left:|[][]' 'BEGIN {RS=""}{ print $3 }');"
 interval=1
 
 [brightness]
 full_text=text2
 command=echo "🔆:$(light)"
-interval=5
+interval=1
 
 [calender]
 full_text=text
 command=date +'%Y-%m-%d %I:%M:%S %p'
 interval=1
-
