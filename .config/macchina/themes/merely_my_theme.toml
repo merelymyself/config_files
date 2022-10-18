@@ -13,7 +13,7 @@ glyph = "[==] "
 visible = true
 
 [box]
-title = "  Hello, gabriel.  "
+title = "   Hello, gabriel.   "
 border = "thick"
 visible = true
 

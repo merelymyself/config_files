@@ -1,11 +1,33 @@
+[poweroff]
+full_text=⏻
+command=swaynag -t warning -m 'Turn it off?' -B 'All suns must set.' 'exec poweroff'
+
+[restart]
+full_text=↻
+command=swaynag -t warning -m 'Is it time to restart?' -B 'Open a breach.' 'exec reboot'
+
+[suspend]
+full_text=☾
+command=systemctl suspend
+
+[bluetooth]
+full_text=ᛒluetooth
+command=if [ $BLOCK_BUTTON ]; then blueman-manager; fi; ~/.config/i3blocks/bluetooth.sh
+interval=3
+
 [wifi]
 full_text=wifi
-command=if [ $BLOCK_BUTTON ]; then nm-connection-editor; fi; ~/.config/i3blocks/wifi.sh
+command=if [ $BLOCK_BUTTON -eq 3 ]; then nm-connection-editor; elif [ $BLOCK_BUTTON ]; then alacritty -e nmtui; fi; ~/.config/i3blocks/wifi.sh;
 interval=15
 
 [battery_level]
 full_text=battery_level
 command=bash -c "if [ $(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | awk 'NR==12 { print $2 }') == "discharging" ]; then echo -n "🔋"; else echo -n "⚡"; fi; echo $(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | awk 'NR==22 { print $2 }')"
+interval=5
+
+[system76_power]
+full_text=power_profile
+command=if [ $BLOCK_BUTTON ]; then bash -c "~/.config/i3blocks/power_profile.sh"; fi; echo "P:" $(system76-power profile | awk 'NR==1 { print $3 }')
 interval=5
 
 [volume]
@@ -20,5 +42,5 @@ interval=1
 
 [calender]
 full_text=text
-command=date +'%Y-%m-%d %I:%M:%S %p'
+command=date +%T
 interval=1

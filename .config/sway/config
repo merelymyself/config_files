@@ -23,12 +23,13 @@ set $browser firefox
 
 include /etc/sway/config-vars.d/*
 
-gaps outer 5
-gaps inner 5
+gaps outer 3
+gaps inner 3
 
 default_border pixel 3
 
 exec --no-startup-id light -S 35
+exec --no-startup-id blueman-applet
 
 ### Output configuration
 #
@@ -68,6 +69,12 @@ output * bg ~/.config/sway/wallpaper.png fill
 # You can get the names of your inputs by running: swaymsg -t get_inputs
 # Read `man 5 sway-input` for more information about this section.
 
+input * {
+	tap enabled
+	tap_button_map lrm
+	click_method clickfinger
+}
+
 ### Key bindings
 #
 # Basics:
@@ -79,7 +86,7 @@ output * bg ~/.config/sway/wallpaper.png fill
     bindsym $mod+q kill
 
     # Start your launcher
-    bindcode --release 133 exec $menu
+    bindsym $mod+r exec $menu
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
@@ -173,8 +180,8 @@ output * bg ~/.config/sway/wallpaper.png fill
     bindsym $mod+v splitv
 
     # Switch the current container between different layout styles
-    bindsym $mod+s layout stacking
-    bindsym $mod+w layout tabbed
+    # bindsym $mod+s layout stacking
+    # bindsym $mod+w layout tabbed
     bindsym $mod+e layout toggle split
 
     # Make the current focus fullscreen
@@ -223,7 +230,8 @@ mode "resize" {
     bindsym Return mode "default"
     bindsym Escape mode "default"
 }
-bindsym $mod+r mode "resize"
+
+# bindsym $mod+r mode "resize"
 
 font JetBrainsMonoNL Nerd Font Mono
 
@@ -232,7 +240,9 @@ font JetBrainsMonoNL Nerd Font Mono
 #
 # Read `man 5 sway-bar` for more information about this section.
 bar {
+	height 20
     position top
+	tray_output none
 
     # When the status_command prints a new line to stdout, swaybar updates.
     # The default just shows the current date and time.
@@ -244,7 +254,7 @@ bar {
         focused_workspace #2e3440 #4c566a #e5e9f0
     }
 
-	separator_symbol "="
+	separator_symbol "⦚"
 }
 
 include /etc/sway/config.d/*
