@@ -30,6 +30,8 @@ default_border pixel 3
 
 exec --no-startup-id light -S 35
 exec --no-startup-id blueman-applet
+exec --no-startup-id nm-applet
+exec --no-startup-id /home/gabriel/.config/sway/config.py
 
 ### Output configuration
 #
@@ -243,6 +245,9 @@ bar {
 	height 20
     position top
 	tray_output none
+	mode hide
+	hidden_state show
+	modifier $mod
 
     # When the status_command prints a new line to stdout, swaybar updates.
     # The default just shows the current date and time.

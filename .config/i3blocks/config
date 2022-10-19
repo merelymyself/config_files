@@ -10,6 +10,11 @@ command=swaynag -t warning -m 'Is it time to restart?' -B 'Open a breach.' 'exec
 full_text=☾
 command=systemctl suspend
 
+[logout]
+full_text=⬎
+command=swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
+
+
 [bluetooth]
 full_text=ᛒluetooth
 command=if [ $BLOCK_BUTTON ]; then blueman-manager; fi; ~/.config/i3blocks/bluetooth.sh
