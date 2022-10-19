@@ -27,11 +27,16 @@ gaps outer 3
 gaps inner 3
 
 default_border pixel 3
+client.focused "#88c0d0" "#88c0d0" "#88c0d0" "#bf616a"
+client.focused_inactive "#3b4252" "#3b4252" "#3b4252" "#3b4252"
+client.unfocused "#3b4252" "#3b4252" "#3b4252" "#3b4252" 
+client.urgent "#88c0d0" "#88c0d0" "#88c0d0" "#bf616a"
 
 exec --no-startup-id light -S 35
 exec --no-startup-id blueman-applet
 exec --no-startup-id nm-applet
 exec --no-startup-id /home/gabriel/.config/sway/config.py
+exec swaymsg split h
 
 ### Output configuration
 #
@@ -178,13 +183,7 @@ input * {
     # You can "split" the current object of your focus with
     # $mod+b or $mod+v, for horizontal and vertical splits
     # respectively.
-    bindsym $mod+c splith
-    bindsym $mod+v splitv
-
-    # Switch the current container between different layout styles
-    # bindsym $mod+s layout stacking
-    # bindsym $mod+w layout tabbed
-    bindsym $mod+e layout toggle split
+	bindsym $mod+y split toggle
 
     # Make the current focus fullscreen
     bindsym $mod+f fullscreen
