@@ -14,6 +14,9 @@ command=systemctl suspend
 full_text=⬎
 command=swaynag -t warning -m 'You pressed the exit shortcut. Do you really want to exit sway? This will end your Wayland session.' -B 'Yes, exit sway' 'swaymsg exit'
 
+[scratchpad]
+command=echo -n "▩"; echo $(swaymsg -t get_tree | jq '.nodes[0].nodes[0] | select(.name=="__i3_scratch") | .floating_nodes | length')
+interval=3
 
 [bluetooth]
 full_text=ᛒluetooth
