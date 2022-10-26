@@ -10,6 +10,7 @@ import i3ipc
 import signal
 import sys
 import time
+import subprocess
 from functools import partial
 
 def on_window_focus(inactive_opacity, ipc, event):
@@ -48,6 +49,9 @@ def deal_with_dock(ipc, event):
             else:
                 ipc.command('bar hidden_state hide')
 
+def working_clipboard(ipc, event):
+    subprocess.run(["copyq", "select", "0"])
+
 if __name__ == "__main__":
     transparency_val = "0.80"
 
@@ -76,7 +80,7 @@ if __name__ == "__main__":
         signal.signal(sig, lambda signal, frame: remove_opacity(ipc))
     ipc.on("window::focus", partial(on_window_focus, args.opacity))
     # ipc.on("window::new", deal_with_dock)
-    # ipc.on("window::close", deal_with_dock)
+    ipc.on("window::close", working_clipboard)
     # ipc.on("window::move", deal_with_dock)
     # ipc.on("workspace::move", deal_with_dock)
     # ipc.on("workspace", deal_with_dock)

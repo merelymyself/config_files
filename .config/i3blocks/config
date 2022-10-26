@@ -30,7 +30,7 @@ interval=15
 
 [battery_level]
 full_text=battery_level
-command=bash -c "if [ $(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | awk 'NR==12 { print $2 }') == "discharging" ]; then echo -n "🔋"; else echo -n "⚡"; fi; echo $(upower -i /org/freedesktop/UPower/devices/battery_BAT0 | awk 'NR==22 { print $2 }')"
+command=~/.config/i3blocks/battery.sh
 interval=5
 
 [system76_power]
