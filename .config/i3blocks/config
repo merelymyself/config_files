@@ -8,7 +8,7 @@ command=swaynag -t warning -m 'Is it time to restart?' -B 'Open a breach.' 'exec
 
 [suspend]
 full_text=☾
-command=systemctl suspend
+command=if [ $BLOCK_BUTTON -eq 1 ]; then systemctl suspend; fi;
 
 [logout]
 full_text=⬎
@@ -27,6 +27,10 @@ interval=3
 full_text=wifi
 command=if [ $BLOCK_BUTTON -eq 3 ]; then nm-connection-editor; elif [ $BLOCK_BUTTON ]; then alacritty -e nmtui; fi; ~/.config/i3blocks/wifi.sh;
 interval=15
+
+[fcitx]
+full_text=EN/中
+command=fcitx5-configtool
 
 [battery_level]
 full_text=battery_level

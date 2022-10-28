@@ -1,3 +1,21 @@
-fish, neovim and alacritty should be available from your distro's package respositories.
+"dependencies":
 
-macchina might not. `cargo install macchina`
+fish
+neovim
+alacritty
+macchina
+cmus
+sway (wm)
+firefox
+blueman
+nm-applet
+copyq
+amixer
+jq
+nm-connection-editor
+system76-power
+alsamixer
+upower
+bluetoothctl
+protonvpn-cli
+nmcli

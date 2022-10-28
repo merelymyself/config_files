@@ -38,6 +38,7 @@ exec --no-startup-id nm-applet
 exec --no-startup-id /home/gabriel/.config/sway/config.py
 exec copyq &
 exec swaymsg split h
+exec fcitx5
 
 ### Output configuration
 #
@@ -192,9 +193,6 @@ input * {
 
     # Toggle the current focus between tiling and floating mode
     bindsym $mod+Shift+space floating toggle
-
-    # Swap focus between the tiling area and the floating area
-    bindsym $mod+space focus mode_toggle
 
     # Move focus to the parent container
     bindsym $mod+a focus parent
