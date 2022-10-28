@@ -19,3 +19,5 @@ upower
 bluetoothctl
 protonvpn-cli
 nmcli
+fcitx5
+fcitx5-chinese-addons
