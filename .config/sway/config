@@ -116,9 +116,9 @@ input * {
 	
 
 	# Change volume
-	bindsym XF86AudioRaiseVolume exec --no-startup-id amixer -D pulse -q set Master 5%+ unmute; exec --no-startup-id spd-say beep -p 100
-	bindsym XF86AudioLowerVolume exec --no-startup-id amixer -D pulse -q set Master 5%- unmute; exec --no-startup-id spd-say beep -p 100
-	bindsym XF86AudioMute exec --no-startup-id amixer -D pulse set Master 1+ toggle; exec --no-startup-id spd-say beep -p 100
+	bindsym XF86AudioRaiseVolume exec --no-startup-id amixer -D pulse -q set Master 5%+ unmute
+	bindsym XF86AudioLowerVolume exec --no-startup-id amixer -D pulse -q set Master 5%- unmute
+	bindsym XF86AudioMute exec --no-startup-id amixer -D pulse set Master 1+ toggle
 
 	# Alt-tab
 	bindsym Alt+tab focus left
