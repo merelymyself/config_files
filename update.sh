@@ -22,6 +22,10 @@ cp -r ~/.config/sway/ ./.config/
 
 cp -r ~/.config/i3blocks/ ./.config/
 
+cp -r ~/.config/waybar/ ./.config/
+
+cp -r ~/.config/wofi/ ./.config/
+
 git add --all
 
 if [[ $# -gt 0 ]]; then git commit -m "$@" 

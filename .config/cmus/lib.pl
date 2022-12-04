@@ -56,6 +56,7 @@
 /home/gabriel/Music/Florence Original Soundtrack 01 Florence.ogg
 /home/gabriel/Music/Flowers Never Bend with the Rainfall.ogg
 /home/gabriel/Music/Franz Ferdinand - Take Me Out.ogg
+/home/gabriel/Music/This Fire.ogg
 /home/gabriel/Music/Free Bird.ogg
 /home/gabriel/Music/Full Confession.ogg
 /home/gabriel/Music/Game of Thrones S8 Official Soundtrack _ The Rains of Castamere - Ramin Djawadi _ WaterTower.ogg
@@ -75,6 +76,7 @@
 /home/gabriel/Music/Hades - The Unseen Ones (ft. Masahiro Aoki and Daisuke Kurosawa).ogg
 /home/gabriel/Music/Half-Life Alyx - Ending Triumph _ Official Soundtrack Music.ogg
 /home/gabriel/Music/Hand Covers Bruise, Reprise (HD) - From the Soundtrack to 'The Social Network'.ogg
+/home/gabriel/Music/Heaven's Light_Hellfire.ogg
 /home/gabriel/Music/Hidden Motives.ogg
 /home/gabriel/Music/High-Noon Hoopla.ogg
 /home/gabriel/Music/High Seas Hi-Jinx.ogg
@@ -102,7 +104,6 @@
 /home/gabriel/Music/Low Roar - St. Eriksplan.ogg
 /home/gabriel/Music/Michael Giacchino - Jyn Erso & Hope Suite (From 'Rogue One - A Star Wars Story'_Audio Only).ogg
 /home/gabriel/Music/Miley Cyrus - The Backyard Sessions - 'Jolene'.ogg
-/home/gabriel/Music/Minecraft.ogg
 /home/gabriel/Music/Mipha's Theme (The Legend of Zelda - Breath of the Wild OST).ogg
 /home/gabriel/Music/Mittsies - Titanium.ogg
 /home/gabriel/Music/Mittsies - Vitality.ogg
@@ -128,6 +129,7 @@
 /home/gabriel/Music/Portal 2 OST - The Friendly Faith Plate.ogg
 /home/gabriel/Music/Portal - 'Still Alive'.ogg
 /home/gabriel/Music/Princess Mononoke Main Theme.ogg
+/home/gabriel/Music/Protector of the Realm.ogg
 /home/gabriel/Music/Rain on Brick.ogg
 /home/gabriel/Music/Ratatouille Main Theme.ogg
 /home/gabriel/Music/Revali's Theme (The Legend of Zelda - Breath of the Wild OST).ogg
@@ -158,7 +160,6 @@
 /home/gabriel/Music/Team Fortress 2 Soundtrack _ Soldier of Dance.ogg
 /home/gabriel/Music/The Bells of Notre Dame.ogg
 /home/gabriel/Music/The City Must Survive.ogg
-/home/gabriel/Music/The hunchback Of Notre Dame Hellfire English (Disney).ogg
 /home/gabriel/Music/The Legend of Ashitaka (Symphonic Suite 'Princess Mononoke' _ Live).ogg
 /home/gabriel/Music/The Mandalorian.ogg
 /home/gabriel/Music/The Paper Kites - St Clarity.ogg
@@ -183,7 +184,6 @@
 /home/gabriel/Music/Undertale OST - 100 - Megalovania.ogg
 /home/gabriel/Music/Vignette - Panacea - Hyper Light Drifter OST.ogg
 /home/gabriel/Music/Vortal Combat.ogg
-/home/gabriel/Music/WALL-E Original Soundtrack - Define Dancing.ogg
 /home/gabriel/Music/Warhammer 40,000 Mechanicus Soundtrack - 1. Children of the Omnissiah.ogg
 /home/gabriel/Music/Watery Graves (In-Game).ogg
 /home/gabriel/Music/Wet Hands.ogg

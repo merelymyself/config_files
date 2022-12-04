@@ -18,6 +18,10 @@ command=swaynag -t warning -m 'You pressed the exit shortcut. Do you really want
 command=echo -n "▩"; echo $(swaymsg -t get_tree | jq '.nodes[0].nodes[0] | select(.name=="__i3_scratch") | .floating_nodes | length')
 interval=3
 
+[printer]
+full_text=🖨
+command=system-config-printer
+
 [bluetooth]
 full_text=ᛒluetooth
 command=if [ $BLOCK_BUTTON ]; then blueman-manager; fi; ~/.config/i3blocks/bluetooth.sh

@@ -1,8 +1,8 @@
 #!/bin/sh
 
-process=$(pgrep dmenu)
+process=$(pgrep wofi)
 if [ $process ]; then
 	kill $process
 else
-	sh -c "dmenu_path | dmenu | xargs swaymsg exec --"
+	sh -c "wofi --show=drun"
 fi
