@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Reboot
+Exec=reboot
+Keywords=reboot,restart
+Terminal=false
+Type=Application

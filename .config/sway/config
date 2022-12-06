@@ -250,26 +250,28 @@ for_window [app_id="zoom" title="Settings"] floating enable, floating_minimum_si
 # Status Bar:
 #
 # Read `man 5 sway-bar` for more information about this section.
-bar {
-	height 20
-    position top
-	tray_output none
-	mode dock
+# bar {
+#	height 20
+#    position top
+#	tray_output none
+#	mode dock
 	# mode hide
 	# hidden_state show
 	# modifier $mod
 
     # When the status_command prints a new line to stdout, swaybar updates.
     # The default just shows the current date and time.
-    status_command i3blocks
+ #   status_command i3blocks
 
-    colors {
-        statusline #e5e9f0
-        background #3b4252
-        focused_workspace #2e3440 #4c566a #e5e9f0
-    }
+  #  colors {
+   #     statusline #e5e9f0
+    #    background #3b4252
+     #   focused_workspace #2e3440 #4c566a #e5e9f0
+    #}
 
-	separator_symbol "⦚"
-}
+	#separator_symbol "⦚"
+#}
+
+exec waybar
 
 include /etc/sway/config.d/*

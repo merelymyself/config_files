@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Lock
+Exec=sh -c "systemctl suspend; swaylock"
+Keywords=lock
+Terminal=false
+Type=Application

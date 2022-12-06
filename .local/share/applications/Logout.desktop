@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Logout
+Exec=swaymsg exit
+Keywords=logout,exit
+Terminal=false
+Type=Application

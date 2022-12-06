@@ -11,7 +11,7 @@ case $op in
                 systemctl $op
                 ;;
         lock)
-		swaylock
+		systemctl suspend; swaylock
                 ;;
         logout)
                 swaymsg exit

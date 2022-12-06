@@ -26,6 +26,14 @@ cp -r ~/.config/waybar/ ./.config/
 
 cp -r ~/.config/wofi/ ./.config/
 
+cp ~/.config/swaylock/config ./.config/swaylock/
+
+cp ~/.local/share/applications/Lock.desktop ./.local/share/applications/
+cp ~/.local/share/applications/Logout.desktop ./.local/share/applications/
+cp ~/.local/share/applications/Shutdown.desktop ./.local/share/applications/
+cp ~/.local/share/applications/Suspend.desktop ./.local/share/applications/
+cp ~/.local/share/applications/Reboot.desktop ./.local/share/applications/
+
 git add --all
 
 if [[ $# -gt 0 ]]; then git commit -m "$@" 

@@ -1,12 +1,17 @@
 {
     "layer": "top",
     "modules-left": ["sway/workspaces", "sway/mode", "sway/window"],
-    "modules-right": ["custom/scratchpad", "custom/printer", "custom/bluetooth", "network", "custom/language", "custom/system76-power", "pulseaudio", "backlight", "battery", "clock", "custom/power_menu"],
+    "modules-right": ["custom/batteryupdater", "custom/scratchpad", "custom/printer", "custom/bluetooth", "network", "custom/language", "custom/system76_power", "pulseaudio", "backlight", "battery", "clock", "custom/power_menu"],
     "sway/window": {
         "max-length": 50
     },
+	"custom/batteryupdater": {
+		"format": "",
+		"interval": 30,
+		"exec": "~/.config/waybar/battery.sh"
+	},
 	"custom/scratchpad": {
-		"exec": "echo -n '▩'; echo $(swaymsg -t get_tree | jq '.nodes[0].nodes[0] | select(.name==\"__i3_scratch\") | .floating_nodes | length')",
+		"exec": "echo -n ''; echo $(swaymsg -t get_tree | jq '.nodes[0].nodes[0] | select(.name==\"__i3_scratch\") | .floating_nodes | length')",
 	},
 	"custom/printer": {
 		"format": "🖨",
@@ -15,11 +20,11 @@
 	"custom/bluetooth": {
 		"on-click": "blueman-manager",
 		"exec": "~/.config/waybar/bluetooth.sh",
+		"interval": 5,
 	},
 	"network": {
-		"format-wifi": "{essid} ({signalStrength}%)",
+		"format-wifi": "{essid} {signalStrength}%",
 		"format-disconnected": "- (-%)",
-		"max-length": 50,
 		"on-click": "alacritty -e nmtui",
 		"on-click-right": "nm-connection-editor",
 	},
@@ -27,8 +32,9 @@
 		"format": "EN/中",
 		"on-click": "fcitx5-configtool",
 	},
-	"custom/system76-power": {
-		"exec": "echo 'P:' $(system76-power profile | awk 'NR==1 { print $3 }')",
+	"custom/system76_power": {
+		"format": "P: {}",
+		"exec": "~/.config/waybar/get_profile.sh",
 		"interval": 1,
 		"on-click": "~/.config/waybar/power_profile.sh"
 	},
@@ -41,15 +47,16 @@
 		"format": "🔆{percent}",
 	},
     "battery": {
-        "format": "{capacity}%",
+        "format": "🔋{capacity}%",
 		"format-charging": "⚡{capacity}%",
     },
     "clock": {
         "format": "{:%H:%M:%S}",
 		"interval": 1,
+		"tooltip-format": "{:%d/%m/%Y}"
     },
 	"custom/power_menu": {
-		"format": "💻",
+		"format": "⏻",
 		"on-click": "~/.config/waybar/power_menu.sh",
 	},
 }
