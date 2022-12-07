@@ -1,9 +1,15 @@
 {
     "layer": "top",
-    "modules-left": ["sway/workspaces", "sway/mode", "sway/window"],
-    "modules-right": ["custom/batteryupdater", "custom/scratchpad", "custom/printer", "custom/bluetooth", "network", "custom/language", "custom/system76_power", "pulseaudio", "backlight", "battery", "clock", "custom/power_menu"],
+    "modules-left": ["sway/workspaces", "sway/mode", "sway/window", "custom/cmus"],
+	"modules-center": [],
+    "modules-right": ["custom/batteryupdater", "custom/scratchpad", "custom/bluetooth", "network", "custom/language", "custom/system76_power", "pulseaudio", "backlight", "battery", "clock", "custom/power_menu"],
+	"custom/cmus": {
+		"exec": "~/.config/waybar/cmus.sh",
+		"interval": 5,
+		"max-length": 50
+	},
     "sway/window": {
-        "max-length": 50
+        "max-length": 50,
     },
 	"custom/batteryupdater": {
 		"format": "",
@@ -12,10 +18,7 @@
 	},
 	"custom/scratchpad": {
 		"exec": "echo -n ''; echo $(swaymsg -t get_tree | jq '.nodes[0].nodes[0] | select(.name==\"__i3_scratch\") | .floating_nodes | length')",
-	},
-	"custom/printer": {
-		"format": "🖨",
-		"on-click": "system-config-printer",
+		"interval": 3,
 	},
 	"custom/bluetooth": {
 		"on-click": "blueman-manager",

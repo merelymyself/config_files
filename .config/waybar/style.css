@@ -86,18 +86,14 @@ button:hover {
 #mode,
 #idle_inhibitor,
 #scratchpad,
-#mpd {
-    padding: 0 10px;
-    color: #ffffff;
-}
-
+#mpd,
 #custom-power_menu,
 #custom-system76_power,
 #custom-language,
 #custom-bluetooth,
 #custom-scratchpad,
 #custom-printer {
-    padding: 0 10px;
+    padding: 2px 5px;
 }
 
 /* #clock:hover,
