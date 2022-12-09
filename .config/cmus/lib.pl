@@ -59,7 +59,6 @@
 /home/gabriel/Music/This Fire.ogg
 /home/gabriel/Music/Free Bird.ogg
 /home/gabriel/Music/Full Confession.ogg
-/home/gabriel/Music/Game of Thrones S8 Official Soundtrack _ The Rains of Castamere - Ramin Djawadi _ WaterTower.ogg
 /home/gabriel/Music/Gerudo Valley - The Legend of Zelda - Ocarina Of Time.ogg
 /home/gabriel/Music/Giant Steps.ogg
 /home/gabriel/Music/Grasswalk.ogg
@@ -164,6 +163,7 @@
 /home/gabriel/Music/The Mandalorian.ogg
 /home/gabriel/Music/The Paper Kites - St Clarity.ogg
 /home/gabriel/Music/The Plagues (The Prince Of Egypt_Soundtrack Version).ogg
+/home/gabriel/Music/The Rains Of Castamere.ogg
 /home/gabriel/Music/The Sixth Station (Spirited Away).ogg
 /home/gabriel/Music/The Throne Is Mine.ogg
 /home/gabriel/Music/The Titan.ogg

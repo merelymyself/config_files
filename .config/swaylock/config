@@ -6,7 +6,7 @@
 # config=<config_file>
 
 # Turn the screen into the given color instead of white
-color=2e3440ff
+# color=2e3440ff
 
 # Enable debugging output
 # debug
@@ -22,7 +22,7 @@ show-failed-attempts
 # daemonize
 
 # Display the given image
-# image [[<output>]:]<path>
+image=~/.config/swaylock/lockscreen.jpg
 
 # Display the current xkb layout while typing
 show-keyboard-layout

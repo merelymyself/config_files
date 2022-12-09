@@ -32,7 +32,7 @@ client.focused_inactive "#3b4252" "#3b4252" "#3b4252" "#3b4252"
 client.unfocused "#3b4252" "#3b4252" "#3b4252" "#3b4252" 
 client.urgent "#88c0d0" "#88c0d0" "#88c0d0" "#bf616a"
 
-exec --no-startup-id light -S 35
+exec --no-startup-id light -S 30
 exec --no-startup-id blueman-applet
 exec --no-startup-id nm-applet
 exec --no-startup-id /home/gabriel/.config/sway/config.py

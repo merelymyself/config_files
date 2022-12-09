@@ -6,7 +6,8 @@
 	"custom/cmus": {
 		"exec": "~/.config/waybar/cmus.sh",
 		"interval": 5,
-		"max-length": 50
+		"max-length": 50,
+		"on-click": "cmus-remote -u"
 	},
     "sway/window": {
         "max-length": 50,
