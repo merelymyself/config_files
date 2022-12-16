@@ -156,7 +156,6 @@
 /home/gabriel/Music/Tarrey Town - Married (The Legend of Zelda - Breath of the Wild OST).ogg
 /home/gabriel/Music/Team Fortress 2 Soundtrack _ Main Theme.ogg
 /home/gabriel/Music/Team Fortress 2 Soundtrack _ Rocket Jump Waltz.ogg
-/home/gabriel/Music/Team Fortress 2 Soundtrack _ Soldier of Dance.ogg
 /home/gabriel/Music/The Bells of Notre Dame.ogg
 /home/gabriel/Music/The City Must Survive.ogg
 /home/gabriel/Music/The Legend of Ashitaka (Symphonic Suite 'Princess Mononoke' _ Live).ogg
@@ -176,6 +175,7 @@
 /home/gabriel/Music/Transistor Original Soundtrack - In Circles.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - Old Friends.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - Paper Boats.ogg
+/home/gabriel/Music/Transistor Original Soundtrack - The Spine.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - We All Become.ogg
 /home/gabriel/Music/Travelers.ogg
 /home/gabriel/Music/Triage at Dawn.ogg

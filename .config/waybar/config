@@ -7,7 +7,8 @@
 		"exec": "~/.config/waybar/cmus.sh",
 		"interval": 5,
 		"max-length": 50,
-		"on-click": "cmus-remote -u"
+		"on-click": "cmus-remote -u",
+		"on-click-right": "cmus-remote -n"
 	},
     "sway/window": {
         "max-length": 50,
@@ -39,7 +40,7 @@
 	"custom/system76_power": {
 		"format": "P: {}",
 		"exec": "~/.config/waybar/get_profile.sh",
-		"interval": 1,
+		"interval": 2,
 		"on-click": "~/.config/waybar/power_profile.sh"
 	},
 	"pulseaudio": {
