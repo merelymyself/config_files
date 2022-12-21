@@ -90,6 +90,8 @@ gnome-keyring-daemon
 wdisplays
 tlp
 gdm
+system-config-printer
+gnome-disk-utility
 
 
 
