@@ -25,6 +25,7 @@ fcitx5-chinese-addons
 gnome-keyring-daemon
 wdisplays
 tlp
+gdm
 
 
 
