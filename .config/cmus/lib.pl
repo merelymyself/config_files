@@ -40,7 +40,6 @@
 /home/gabriel/Music/CP Violation.ogg
 /home/gabriel/Music/Danger Mouse, Daniele Luppi - Two Against One ft. Jack White.ogg
 /home/gabriel/Music/Daniel Pemberton - The Prowler (From 'Spider-Man - Into the Spider-Verse' Score).ogg
-/home/gabriel/Music/Death By Glamour.ogg
 /home/gabriel/Music/Debris.ogg
 /home/gabriel/Music/Deliver Us (The Prince Of Egypt_Soundtrack Version).ogg
 /home/gabriel/Music/Disco Elysium OST - Whirling Cafeteria(Day) .ogg
@@ -70,7 +69,6 @@
 /home/gabriel/Music/Hades - Good Riddance (feat. Ashley Barrett).ogg
 /home/gabriel/Music/Hades - Hymn to Zagreus.ogg
 /home/gabriel/Music/Hades - Lament of Orpheus.ogg
-/home/gabriel/Music/Hades - No Escape.ogg
 /home/gabriel/Music/Hades - On the Coast.ogg
 /home/gabriel/Music/Hades - The Unseen Ones (ft. Masahiro Aoki and Daisuke Kurosawa).ogg
 /home/gabriel/Music/Half-Life Alyx - Ending Triumph _ Official Soundtrack Music.ogg
@@ -94,7 +92,6 @@
 /home/gabriel/Music/Kiki's Delivery Service song - 'A Town With an Ocean View' ORCHESTRA LIVE by Joe Hisaishi [HD].ogg
 /home/gabriel/Music/Kyoto.ogg
 /home/gabriel/Music/Lace (Silksong OST Sample).ogg
-/home/gabriel/Music/Le Festin.ogg
 /home/gabriel/Music/Li Bai.ogg
 /home/gabriel/Music/Low Roar - 'Bones' (feat. Jófríõur Ákadóttir) [Official Audio].ogg
 /home/gabriel/Music/Low Roar - Don't Be So Serious.ogg
@@ -110,7 +107,6 @@
 /home/gabriel/Music/Murine Corps.ogg
 /home/gabriel/Music/Night in the Woods OST - Longest Night.ogg
 /home/gabriel/Music/Title.ogg
-/home/gabriel/Music/Octopath Traveler - Main Theme.ogg
 /home/gabriel/Music/[Official] Celeste B-Sides - 03 - Christa Lee - Celestial Resort (Good Karma Mix).ogg
 /home/gabriel/Music/[Official] Celeste B-Sides - 05 - 2 Mello - Mirror Temple (Mirror Magic Mix).ogg
 /home/gabriel/Music/[Official] Celeste Original Soundtrack - 03 - Resurrections.ogg
@@ -158,8 +154,11 @@
 /home/gabriel/Music/Team Fortress 2 Soundtrack _ Rocket Jump Waltz.ogg
 /home/gabriel/Music/The Bells of Notre Dame.ogg
 /home/gabriel/Music/The City Must Survive.ogg
+/home/gabriel/Music/The Crane Wives - Tongues & Teeth.ogg
 /home/gabriel/Music/The Legend of Ashitaka (Symphonic Suite 'Princess Mononoke' _ Live).ogg
 /home/gabriel/Music/The Mandalorian.ogg
+/home/gabriel/Music/The Oh Hellos - Exeunt.ogg
+/home/gabriel/Music/The Oh Hellos - Soldier, Poet, King.ogg
 /home/gabriel/Music/The Paper Kites - St Clarity.ogg
 /home/gabriel/Music/The Plagues (The Prince Of Egypt_Soundtrack Version).ogg
 /home/gabriel/Music/The Rains Of Castamere.ogg
@@ -182,6 +181,7 @@
 /home/gabriel/Music/Ultimate Battle.ogg
 /home/gabriel/Music/Undertale OST - 063 - It's Raining Somewhere Else.ogg
 /home/gabriel/Music/Undertale OST - 100 - Megalovania.ogg
+/home/gabriel/Music/Death By Glamour.ogg
 /home/gabriel/Music/Vignette - Panacea - Hyper Light Drifter OST.ogg
 /home/gabriel/Music/Vortal Combat.ogg
 /home/gabriel/Music/Warhammer 40,000 Mechanicus Soundtrack - 1. Children of the Omnissiah.ogg

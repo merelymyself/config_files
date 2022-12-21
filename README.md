@@ -12,6 +12,7 @@ nm-applet
 copyq
 amixer
 jq
+light
 nm-connection-editor
 system76-power
 alsamixer
@@ -23,3 +24,16 @@ fcitx5
 fcitx5-chinese-addons
 gnome-keyring-daemon
 wdisplays
+tlp
+
+
+
+/etc/bluetooth/audio.conf:
+
+```
+[General]
+
+Disable=Socket
+Enable=Media,Source,Sink,Gateway
+```
+
