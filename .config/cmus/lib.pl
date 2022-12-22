@@ -157,6 +157,7 @@
 /home/gabriel/Music/The Crane Wives - Tongues & Teeth.ogg
 /home/gabriel/Music/The Legend of Ashitaka (Symphonic Suite 'Princess Mononoke' _ Live).ogg
 /home/gabriel/Music/The Mandalorian.ogg
+/home/gabriel/Music/The Oh Hellos - Bitter Water.ogg
 /home/gabriel/Music/The Oh Hellos - Exeunt.ogg
 /home/gabriel/Music/The Oh Hellos - Soldier, Poet, King.ogg
 /home/gabriel/Music/The Paper Kites - St Clarity.ogg
@@ -170,7 +171,6 @@
 /home/gabriel/Music/Title Theme - The Legend of Zelda - Ocarina of Time.ogg
 /home/gabriel/Music/Too Good Too Bad.ogg
 /home/gabriel/Music/Transistor - Bonus Track - She Shines.ogg
-/home/gabriel/Music/Transistor Original Soundtrack - Gold Leaf.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - In Circles.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - Old Friends.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - Paper Boats.ogg
