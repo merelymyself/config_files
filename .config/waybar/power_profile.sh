@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 prof=$(system76-power profile | awk 'NR==1 { print $3 }')
 

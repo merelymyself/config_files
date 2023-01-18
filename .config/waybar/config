@@ -41,10 +41,10 @@
 		"format": "P: {}",
 		"exec": "~/.config/waybar/get_profile.sh",
 		"interval": 2,
-		"on-click": "~/.config/waybar/power_profile.sh"
+		"on-click": "~/.config/waybar/power_profile.sh",
 	},
 	"pulseaudio": {
-		"on-click": "alacritty -e alsamixer",
+		"on-click": "pavucontrol",
 		"format": "🔊{volume}%",
 		"format-muted": "🔇{volume}%",
 	},

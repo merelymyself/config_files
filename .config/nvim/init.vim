@@ -7,8 +7,9 @@
 " Plugins will be downloaded under the specified directory.
 call plug#begin()
 " Rust lsp
+Plug 'williamboman/mason.nvim'
+Plug 'williamboman/mason-lspconfig.nvim'
 Plug 'neovim/nvim-lspconfig'
-Plug 'williamboman/nvim-lsp-installer'
 Plug 'simrat39/rust-tools.nvim'
 " Rust autocomplete
 Plug 'hrsh7th/cmp-nvim-lsp'
@@ -50,7 +51,11 @@ set shortmess+=c
 " See https://github.com/simrat39/rust-tools.nvim#configuration
 lua <<EOF
 
-require("nvim-lsp-installer").setup {}
+require("mason").setup({
+	PATH = "prepend"
+})
+
+require("mason-lspconfig").setup()
 -- nvim_lsp object
 local nvim_lsp = require'lspconfig'
 
