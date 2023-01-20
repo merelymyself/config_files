@@ -22,6 +22,8 @@ cp -r ~/.config/waybar/ ./.config/
 
 cp -r ~/.config/wofi/ ./.config/
 
+cp -r ~/.config/mako/ ./.config/
+
 cp ~/.config/swaylock/config ./.config/swaylock/
 
 cp ~/.local/share/applications/Lock.desktop ./.local/share/applications/
