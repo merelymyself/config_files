@@ -19,7 +19,7 @@ set $term alacritty
 # Note: pass the final command to swaymsg so that the resulting window can be opened
 # on the original workspace that the command was run on.
 set $menu ~/.config/sway/launcher.sh
-set $browser firefox
+set $browser MOZ_ENABLE_WAYLAND=1 firefox
 
 include /etc/sway/config-vars.d/*
 

@@ -10,13 +10,11 @@
 /home/gabriel/Music/Aria Math.ogg
 /home/gabriel/Music/Baking The Wondertart.ogg
 /home/gabriel/Music/BIG SHOT.ogg
-/home/gabriel/Music/Black (feat. Norah Jones).ogg
 /home/gabriel/Music/Blue Room (Kz-Version).ogg
 /home/gabriel/Music/BoJack_s Theme (Full Length).ogg
 /home/gabriel/Music/Bonebottom (Silksong OST Sample).ogg
 /home/gabriel/Music/Botanic Panic.ogg
 /home/gabriel/Music/Brainiac Maniac.ogg
-/home/gabriel/Music/Breaking Bad Main Title Theme (Extended).ogg
 /home/gabriel/Music/Breath of a Serpent.ogg
 /home/gabriel/Music/Brinstar Depths _ Super Smash Bros. Ultimate.ogg
 /home/gabriel/Music/Build That Wall (Zia_s Theme).ogg
@@ -93,6 +91,7 @@
 /home/gabriel/Music/Li Bai.ogg
 /home/gabriel/Music/Low Roar - _Bones_ (feat. Jófríõur Ákadóttir) [Official Audio].ogg
 /home/gabriel/Music/Low Roar - Don_t Be So Serious.ogg
+/home/gabriel/Music/Low Roar - 'Give Me An Answer'.ogg
 /home/gabriel/Music/Low Roar - 'I'll Keep Coming'.ogg
 /home/gabriel/Music/Low Roar - _Nobody Loves Me Like You_.ogg
 /home/gabriel/Music/Low Roar - Slow Down.ogg
@@ -119,7 +118,6 @@
 /home/gabriel/Music/Pigstep (Stereo Mix).ogg
 /home/gabriel/Music/Porco Rosso - Joe Hisaishi in Budokan - Studio Ghibli 25 Years Concert.ogg
 /home/gabriel/Music/Portal 2 OST - Love as a Construct.ogg
-/home/gabriel/Music/Portal 2 OST - Science is Fun.ogg
 /home/gabriel/Music/Portal 2 OST - The Friendly Faith Plate.ogg
 /home/gabriel/Music/Portal - _Still Alive_.ogg
 /home/gabriel/Music/Princess Mononoke Main Theme.ogg
@@ -158,7 +156,9 @@
 /home/gabriel/Music/The Legend of Ashitaka (Symphonic Suite _Princess Mononoke_ _ Live).ogg
 /home/gabriel/Music/The Mandalorian.ogg
 /home/gabriel/Music/The Oh Hellos - Bitter Water.ogg
+/home/gabriel/Music/The Oh Hellos - Eurus.ogg
 /home/gabriel/Music/The Oh Hellos - Exeunt.ogg
+/home/gabriel/Music/The Oh Hellos - Hieroglyphs.ogg
 /home/gabriel/Music/The Oh Hellos - Soldier, Poet, King.ogg
 /home/gabriel/Music/The Oh Hellos - Where Is Your Rider.ogg
 /home/gabriel/Music/The Paper Kites - St Clarity.ogg

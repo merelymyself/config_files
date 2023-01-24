@@ -26,6 +26,8 @@ cp -r ~/.config/mako/ ./.config/
 
 cp ~/.config/swaylock/config ./.config/swaylock/
 
+cp /etc/ly/config.ini ./etc/ly
+
 cp ~/.local/share/applications/Lock.desktop ./.local/share/applications/
 cp ~/.local/share/applications/Logout.desktop ./.local/share/applications/
 cp ~/.local/share/applications/Shutdown.desktop ./.local/share/applications/
