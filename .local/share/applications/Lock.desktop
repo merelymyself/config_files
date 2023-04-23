@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Lock
-Exec=sh -c "systemctl suspend; swaylock"
+Exec=sh -c "systemctl suspend; i3lock -i ~/.config/i3/lockscreen.png -e -f"
 Keywords=lock
 Terminal=false
 Type=Application

@@ -43,7 +43,6 @@
 /home/gabriel/Music/Disco Elysium OST - Whirling Cafeteria(Day) .ogg
 /home/gabriel/Music/Disney Pixar_s Inside Out - 01 - Bundle Of Joy.ogg
 /home/gabriel/Music/Dr Style (Shopcat Remix).ogg
-/home/gabriel/Music/Everybody Wants To Rule The World.ogg
 /home/gabriel/Music/Evil Federation Theme.ogg
 /home/gabriel/Music/Faster Than Light (From Stellaris Original Game Soundtrack) (Instrumental).ogg
 /home/gabriel/Music/FE Three Houses OST - 20. God Shattering Star (Rain).ogg
@@ -68,7 +67,6 @@
 /home/gabriel/Music/Hades - Lament of Orpheus.ogg
 /home/gabriel/Music/Hades - The Unseen Ones (ft. Masahiro Aoki and Daisuke Kurosawa).ogg
 /home/gabriel/Music/Half-Life Alyx - Ending Triumph _ Official Soundtrack Music.ogg
-/home/gabriel/Music/Hand Covers Bruise, Reprise (HD) - From the Soundtrack to _The Social Network_.ogg
 /home/gabriel/Music/Heaven_s Light_Hellfire.ogg
 /home/gabriel/Music/Hidden Motives.ogg
 /home/gabriel/Music/High-Noon Hoopla.ogg
@@ -76,11 +74,9 @@
 /home/gabriel/Music/Hollow Knight OST - City of Tears.ogg
 /home/gabriel/Music/Hollow Knight OST - Hornet.ogg
 /home/gabriel/Music/I Am a Rock.ogg
-/home/gabriel/Music/_I Expect You To Die_ Opening Credits.ogg
 /home/gabriel/Music/In Motion - Trent Reznor and Atticus Ross (The Social Network).ogg
 /home/gabriel/Music/Joe Hisaishi - Merry-Go-Round of Life (from HowlтАЩs Moving Castle).ogg
 /home/gabriel/Music/Joe Hisaishi - One Summer_s Day.ogg
-/home/gabriel/Music/Joel Nielsen   Black Mesa Soundtrack   Questionable Ethics 1.ogg
 /home/gabriel/Music/Joker Xue - Skyscrapers 摩天高楼.ogg
 /home/gabriel/Music/Journey Soundtrack (Austin Wintory) - 01. Nascence.ogg
 /home/gabriel/Music/Kara Main Theme (Kara).ogg
@@ -91,8 +87,8 @@
 /home/gabriel/Music/Li Bai.ogg
 /home/gabriel/Music/Low Roar - _Bones_ (feat. Jófríõur Ákadóttir) [Official Audio].ogg
 /home/gabriel/Music/Low Roar - Don_t Be So Serious.ogg
-/home/gabriel/Music/Low Roar - 'Give Me An Answer'.ogg
-/home/gabriel/Music/Low Roar - 'I'll Keep Coming'.ogg
+/home/gabriel/Music/Low Roar - Give Me An Answer.ogg
+/home/gabriel/Music/Low Roar - "I'll Keep Coming".ogg
 /home/gabriel/Music/Low Roar - _Nobody Loves Me Like You_.ogg
 /home/gabriel/Music/Low Roar - Slow Down.ogg
 /home/gabriel/Music/Low Roar - St. Eriksplan.ogg
@@ -112,7 +108,6 @@
 /home/gabriel/Music/Old War Machines.ogg
 /home/gabriel/Music/One Step From Eden - Neverending Song - Violette_s Theme.ogg
 /home/gabriel/Music/Oogway Ascends.ogg
-/home/gabriel/Music/Overture From _Whiplash_.ogg
 /home/gabriel/Music/_Path of The Wind_ by Joe Hisaishi.ogg
 /home/gabriel/Music/Pieces Form the Whole (HD) - From the Soundtrack to _The Social Network_.ogg
 /home/gabriel/Music/Pigstep (Stereo Mix).ogg
@@ -147,19 +142,28 @@
 /home/gabriel/Music/Sweden.ogg
 /home/gabriel/Music/Synthetic God.ogg
 /home/gabriel/Music/Tarrey Town - Married (The Legend of Zelda - Breath of the Wild OST).ogg
-/home/gabriel/Music/Team Fortress 2 Soundtrack _ Main Theme.ogg
 /home/gabriel/Music/Team Fortress 2 Soundtrack _ Rocket Jump Waltz.ogg
 /home/gabriel/Music/The Altogether - Goodbye.ogg
 /home/gabriel/Music/The Bells of Notre Dame.ogg
 /home/gabriel/Music/The City Must Survive.ogg
+/home/gabriel/Music/The Crane Wives - Canary in a Coal Mine.ogg
+/home/gabriel/Music/The Crane Wives - Icarus.ogg
 /home/gabriel/Music/The Crane Wives - Tongues _ Teeth.ogg
+/home/gabriel/Music/The Crane Wives - Turn Out The Lights.ogg
 /home/gabriel/Music/The Legend of Ashitaka (Symphonic Suite _Princess Mononoke_ _ Live).ogg
 /home/gabriel/Music/The Mandalorian.ogg
 /home/gabriel/Music/The Oh Hellos - Bitter Water.ogg
+/home/gabriel/Music/The Oh Hellos - Boreas.ogg
+/home/gabriel/Music/The Oh Hellos - Constellations.ogg
+/home/gabriel/Music/The Oh Hellos - Eat You Alive.ogg
 /home/gabriel/Music/The Oh Hellos - Eurus.ogg
 /home/gabriel/Music/The Oh Hellos - Exeunt.ogg
+/home/gabriel/Music/The Oh Hellos - Grow.ogg
 /home/gabriel/Music/The Oh Hellos - Hieroglyphs.ogg
+/home/gabriel/Music/The Oh Hellos - O Sleeper.ogg
+/home/gabriel/Music/The Oh Hellos - Passerine.ogg
 /home/gabriel/Music/The Oh Hellos - Soldier, Poet, King.ogg
+/home/gabriel/Music/The Oh Hellos - Torches.ogg
 /home/gabriel/Music/The Oh Hellos - Where Is Your Rider.ogg
 /home/gabriel/Music/The Paper Kites - St Clarity.ogg
 /home/gabriel/Music/The Plagues (The Prince Of Egypt_Soundtrack Version).ogg
@@ -180,14 +184,11 @@
 /home/gabriel/Music/Triage at Dawn.ogg
 /home/gabriel/Music/Ultimate Battle.ogg
 /home/gabriel/Music/Undertale OST - 063 - It_s Raining Somewhere Else.ogg
-/home/gabriel/Music/Undertale OST - 100 - Megalovania.ogg
 /home/gabriel/Music/Death By Glamour.ogg
 /home/gabriel/Music/Vignette - Panacea - Hyper Light Drifter OST.ogg
-/home/gabriel/Music/Vortal Combat.ogg
 /home/gabriel/Music/Warhammer 40,000 Mechanicus Soundtrack - 1. Children of the Omnissiah.ogg
 /home/gabriel/Music/Watery Graves (In-Game).ogg
 /home/gabriel/Music/Wet Hands.ogg
-/home/gabriel/Music/What Remains Of Edith Finch OST - Milton_s Tower (extended).ogg
 /home/gabriel/Music/Whiplash.ogg
 /home/gabriel/Music/You Will Never Know.ogg
 /home/gabriel/Music/别找我麻烦.ogg
@@ -196,5 +197,4 @@
 /home/gabriel/Music/有一种悲伤.ogg
 /home/gabriel/Music/李荣浩-歌谣.ogg
 /home/gabriel/Music/蔡健雅-紅色高跟鞋.ogg
-/home/gabriel/Music/薛之謙-Joker-Xue【醜八怪】官方完整版-MV-_曲-李榮浩.ogg
 /home/gabriel/Music/说散就散.ogg

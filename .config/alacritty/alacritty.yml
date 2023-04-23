@@ -61,7 +61,7 @@ window:
   # Values for `decorations` (macOS only):
   #     - transparent: Title bar, transparent background and title bar buttons
   #     - buttonless: Title bar, transparent background and no title bar buttons
-  decorations: none
+  decorations: full
 
   # Background opacity
   #
@@ -125,7 +125,7 @@ font:
     family: JetBrainsMonoNL Nerd Font Mono
     style: Bold Italic
 
-  size: 13
+  size: 12
 #font:
   # Normal (roman) font face
   #normal:
