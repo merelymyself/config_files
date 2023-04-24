@@ -18,6 +18,12 @@ cp ~/.mozilla/firefox/6mmgdrc0.gabriel/user.js ./.config/firefox/
 
 cp -r ~/.config/sway/ ./.config/
 
+cp -r ~/.config/i3/ ./.config/
+
+cp -r ~/.config/dunst/ ./.config/
+
+cp -r ~/.config/polybar/ ./.config/
+
 cp -r ~/.config/waybar/ ./.config/
 
 cp -r ~/.config/wofi/ ./.config/
