@@ -10,13 +10,11 @@
 /home/gabriel/Music/Aria Math.ogg
 /home/gabriel/Music/Baking The Wondertart.ogg
 /home/gabriel/Music/BIG SHOT.ogg
-/home/gabriel/Music/Blue Room (Kz-Version).ogg
 /home/gabriel/Music/BoJack_s Theme (Full Length).ogg
 /home/gabriel/Music/Bonebottom (Silksong OST Sample).ogg
 /home/gabriel/Music/Botanic Panic.ogg
 /home/gabriel/Music/Brainiac Maniac.ogg
 /home/gabriel/Music/Breath of a Serpent.ogg
-/home/gabriel/Music/Brinstar Depths _ Super Smash Bros. Ultimate.ogg
 /home/gabriel/Music/Build That Wall (Zia_s Theme).ogg
 /home/gabriel/Music/CaCO3.ogg
 /home/gabriel/Music/Caravan.ogg
@@ -47,7 +45,6 @@
 /home/gabriel/Music/Faster Than Light (From Stellaris Original Game Soundtrack) (Instrumental).ogg
 /home/gabriel/Music/FE Three Houses OST - 20. God Shattering Star (Rain).ogg
 /home/gabriel/Music/FE Three Houses OST - 24. The Apex of the World (Rain).ogg
-/home/gabriel/Music/FE Three Houses OST - 6. Fodlan Winds (Rain).ogg
 /home/gabriel/Music/Floral Fury.ogg
 /home/gabriel/Music/Florence Original Soundtrack 01 Florence.ogg
 /home/gabriel/Music/Flowers Never Bend with the Rainfall.ogg
@@ -92,6 +89,7 @@
 /home/gabriel/Music/Low Roar - _Nobody Loves Me Like You_.ogg
 /home/gabriel/Music/Low Roar - Slow Down.ogg
 /home/gabriel/Music/Low Roar - St. Eriksplan.ogg
+/home/gabriel/Music/Low Roar - Without You.ogg
 /home/gabriel/Music/Michael Giacchino - Jyn Erso _ Hope Suite (From _Rogue One - A Star Wars Story__Audio Only).ogg
 /home/gabriel/Music/Miley Cyrus - The Backyard Sessions - _Jolene_.ogg
 /home/gabriel/Music/Mipha_s Theme (The Legend of Zelda - Breath of the Wild OST).ogg
@@ -105,6 +103,9 @@
 /home/gabriel/Music/[Official] Celeste B-Sides - 05 - 2 Mello - Mirror Temple (Mirror Magic Mix).ogg
 /home/gabriel/Music/[Official] Celeste Original Soundtrack - 03 - Resurrections.ogg
 /home/gabriel/Music/[Official] Celeste Original Soundtrack - 08 - Scattered and Lost.ogg
+/home/gabriel/Music/OK Go - Needing⧸Getting (Video).ogg
+/home/gabriel/Music/Ok Go - Obsession.ogg
+/home/gabriel/Music/OK Go - This Too Shall Pass.ogg
 /home/gabriel/Music/Old War Machines.ogg
 /home/gabriel/Music/One Step From Eden - Neverending Song - Violette_s Theme.ogg
 /home/gabriel/Music/Oogway Ascends.ogg
@@ -121,8 +122,6 @@
 /home/gabriel/Music/Ratatouille Main Theme.ogg
 /home/gabriel/Music/Revali_s Theme (The Legend of Zelda - Breath of the Wild OST).ogg
 /home/gabriel/Music/Riding - Night (The Legend of Zelda - Breath of the Wild OST).ogg
-/home/gabriel/Music/Rimworld Royalty OST #10 Believe - Alistair Lindsay.ogg
-/home/gabriel/Music/Rimworld Royalty OST #12 Alignment - Alistair Lindsay.ogg
 /home/gabriel/Music/rises the moon.ogg
 /home/gabriel/Music/Rito Village - Night (The Legend of Zelda - Breath of the Wild OST).ogg
 /home/gabriel/Music/Romantic Flight (From How To Train Your Dragon Music From The Motion Picture).ogg
@@ -142,8 +141,8 @@
 /home/gabriel/Music/Sweden.ogg
 /home/gabriel/Music/Synthetic God.ogg
 /home/gabriel/Music/Tarrey Town - Married (The Legend of Zelda - Breath of the Wild OST).ogg
-/home/gabriel/Music/Team Fortress 2 Soundtrack _ Rocket Jump Waltz.ogg
 /home/gabriel/Music/The Altogether - Goodbye.ogg
+/home/gabriel/Music/The Arcadian Wild - Envy Green.ogg
 /home/gabriel/Music/The Bells of Notre Dame.ogg
 /home/gabriel/Music/The City Must Survive.ogg
 /home/gabriel/Music/The Crane Wives - Canary in a Coal Mine.ogg
@@ -160,12 +159,14 @@
 /home/gabriel/Music/The Oh Hellos - Exeunt.ogg
 /home/gabriel/Music/The Oh Hellos - Grow.ogg
 /home/gabriel/Music/The Oh Hellos - Hieroglyphs.ogg
+/home/gabriel/Music/The Oh Hellos - In Memoriam.ogg
+/home/gabriel/Music/The Oh Hellos - On the Mountain Tall.ogg
 /home/gabriel/Music/The Oh Hellos - O Sleeper.ogg
 /home/gabriel/Music/The Oh Hellos - Passerine.ogg
+/home/gabriel/Music/The Oh Hellos - Rio Grande.ogg
 /home/gabriel/Music/The Oh Hellos - Soldier, Poet, King.ogg
 /home/gabriel/Music/The Oh Hellos - Torches.ogg
 /home/gabriel/Music/The Oh Hellos - Where Is Your Rider.ogg
-/home/gabriel/Music/The Paper Kites - St Clarity.ogg
 /home/gabriel/Music/The Plagues (The Prince Of Egypt_Soundtrack Version).ogg
 /home/gabriel/Music/The Rains Of Castamere.ogg
 /home/gabriel/Music/The Sixth Station (Spirited Away).ogg
@@ -189,7 +190,6 @@
 /home/gabriel/Music/Warhammer 40,000 Mechanicus Soundtrack - 1. Children of the Omnissiah.ogg
 /home/gabriel/Music/Watery Graves (In-Game).ogg
 /home/gabriel/Music/Wet Hands.ogg
-/home/gabriel/Music/Whiplash.ogg
 /home/gabriel/Music/You Will Never Know.ogg
 /home/gabriel/Music/别找我麻烦.ogg
 /home/gabriel/Music/动物世界.ogg
