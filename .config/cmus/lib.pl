@@ -44,7 +44,6 @@
 /home/gabriel/Music/Evil Federation Theme.ogg
 /home/gabriel/Music/Faster Than Light (From Stellaris Original Game Soundtrack) (Instrumental).ogg
 /home/gabriel/Music/FE Three Houses OST - 20. God Shattering Star (Rain).ogg
-/home/gabriel/Music/FE Three Houses OST - 24. The Apex of the World (Rain).ogg
 /home/gabriel/Music/Floral Fury.ogg
 /home/gabriel/Music/Florence Original Soundtrack 01 Florence.ogg
 /home/gabriel/Music/Flowers Never Bend with the Rainfall.ogg
@@ -71,7 +70,6 @@
 /home/gabriel/Music/Hollow Knight OST - City of Tears.ogg
 /home/gabriel/Music/Hollow Knight OST - Hornet.ogg
 /home/gabriel/Music/I Am a Rock.ogg
-/home/gabriel/Music/In Motion - Trent Reznor and Atticus Ross (The Social Network).ogg
 /home/gabriel/Music/Joe Hisaishi - Merry-Go-Round of Life (from HowlтАЩs Moving Castle).ogg
 /home/gabriel/Music/Joe Hisaishi - One Summer_s Day.ogg
 /home/gabriel/Music/Joker Xue - Skyscrapers 摩天高楼.ogg
@@ -130,7 +128,6 @@
 /home/gabriel/Music/Simon _ Garfunkel - Scarborough Fair_Canticle (Audio).ogg
 /home/gabriel/Music/Simon _ Garfunkel - The Boxer (Audio).ogg
 /home/gabriel/Music/Simon _ Garfunkel - The Sounds of Silence (Audio).ogg
-/home/gabriel/Music/Slowly (feat. Karen Han).ogg
 /home/gabriel/Music/Sneaky Driver.ogg
 /home/gabriel/Music/Snow.ogg
 /home/gabriel/Music/Something Stupid (From _Better Call Saul_).ogg
@@ -153,6 +150,7 @@
 /home/gabriel/Music/The Mandalorian.ogg
 /home/gabriel/Music/The Oh Hellos - Bitter Water.ogg
 /home/gabriel/Music/The Oh Hellos - Boreas.ogg
+/home/gabriel/Music/The Oh Hellos - Cold.ogg
 /home/gabriel/Music/The Oh Hellos - Constellations.ogg
 /home/gabriel/Music/The Oh Hellos - Eat You Alive.ogg
 /home/gabriel/Music/The Oh Hellos - Eurus.ogg
@@ -160,11 +158,14 @@
 /home/gabriel/Music/The Oh Hellos - Grow.ogg
 /home/gabriel/Music/The Oh Hellos - Hieroglyphs.ogg
 /home/gabriel/Music/The Oh Hellos - In Memoriam.ogg
+/home/gabriel/Music/The Oh Hellos - Lapis Lazuli.ogg
 /home/gabriel/Music/The Oh Hellos - On the Mountain Tall.ogg
 /home/gabriel/Music/The Oh Hellos - O Sleeper.ogg
 /home/gabriel/Music/The Oh Hellos - Passerine.ogg
 /home/gabriel/Music/The Oh Hellos - Rio Grande.ogg
+/home/gabriel/Music/The Oh Hellos - Rose.ogg
 /home/gabriel/Music/The Oh Hellos - Soldier, Poet, King.ogg
+/home/gabriel/Music/The Oh Hellos - The Valley.ogg
 /home/gabriel/Music/The Oh Hellos - Torches.ogg
 /home/gabriel/Music/The Oh Hellos - Where Is Your Rider.ogg
 /home/gabriel/Music/The Plagues (The Prince Of Egypt_Soundtrack Version).ogg
@@ -174,7 +175,6 @@
 /home/gabriel/Music/THE WORLD REVOLVING-Z01Tsgwe2dQ.ogg
 /home/gabriel/Music/thumbnail (ft. brian david gilbert).ogg
 /home/gabriel/Music/Title Theme - The Legend of Zelda - Ocarina of Time.ogg
-/home/gabriel/Music/Too Good Too Bad.ogg
 /home/gabriel/Music/Transistor - Bonus Track - She Shines.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - In Circles.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - Old Friends.ogg
