@@ -3,7 +3,6 @@
 /home/gabriel/Music/Admission to Perdition.ogg
 /home/gabriel/Music/AG.ogg
 /home/gabriel/Music/All for Now.ogg
-/home/gabriel/Music/Alto_s Adventure - Zen Mode Soundtrack (OST).ogg
 /home/gabriel/Music/Among The Ruins.ogg
 /home/gabriel/Music/An Endless Desert.ogg
 /home/gabriel/Music/Anti-Citizen.ogg
@@ -93,7 +92,6 @@
 /home/gabriel/Music/Mipha_s Theme (The Legend of Zelda - Breath of the Wild OST).ogg
 /home/gabriel/Music/Mittsies - Titanium.ogg
 /home/gabriel/Music/Mittsies - Vitality.ogg
-/home/gabriel/Music/Mr Blue (Radio Mix).ogg
 /home/gabriel/Music/Murine Corps.ogg
 /home/gabriel/Music/Night in the Woods OST - Longest Night.ogg
 /home/gabriel/Music/Title.ogg
@@ -103,6 +101,7 @@
 /home/gabriel/Music/[Official] Celeste Original Soundtrack - 08 - Scattered and Lost.ogg
 /home/gabriel/Music/OK Go - Needing⧸Getting (Video).ogg
 /home/gabriel/Music/Ok Go - Obsession.ogg
+/home/gabriel/Music/OK Go - The One Moment.ogg
 /home/gabriel/Music/OK Go - This Too Shall Pass.ogg
 /home/gabriel/Music/Old War Machines.ogg
 /home/gabriel/Music/One Step From Eden - Neverending Song - Violette_s Theme.ogg
@@ -195,6 +194,7 @@
 /home/gabriel/Music/动物世界.ogg
 /home/gabriel/Music/孫燕姿 - 天黑黑.ogg
 /home/gabriel/Music/有一种悲伤.ogg
+/home/gabriel/Music/李榮浩 Ronghao Li - 年少有為.ogg
 /home/gabriel/Music/李荣浩-歌谣.ogg
 /home/gabriel/Music/蔡健雅-紅色高跟鞋.ogg
 /home/gabriel/Music/说散就散.ogg
