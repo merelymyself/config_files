@@ -40,7 +40,6 @@
 /home/gabriel/Music/Disco Elysium OST - Whirling Cafeteria(Day) .ogg
 /home/gabriel/Music/Disney Pixar_s Inside Out - 01 - Bundle Of Joy.ogg
 /home/gabriel/Music/Dr Style (Shopcat Remix).ogg
-/home/gabriel/Music/Evil Federation Theme.ogg
 /home/gabriel/Music/Faster Than Light (From Stellaris Original Game Soundtrack) (Instrumental).ogg
 /home/gabriel/Music/FE Three Houses OST - 20. God Shattering Star (Rain).ogg
 /home/gabriel/Music/Floral Fury.ogg
@@ -75,7 +74,6 @@
 /home/gabriel/Music/Journey Soundtrack (Austin Wintory) - 01. Nascence.ogg
 /home/gabriel/Music/Kara Main Theme (Kara).ogg
 /home/gabriel/Music/Katana Zero (Ost-Version).ogg
-/home/gabriel/Music/Kiki_s Delivery Service song - _A Town With an Ocean View_ ORCHESTRA LIVE by Joe Hisaishi [HD].ogg
 /home/gabriel/Music/Kyoto.ogg
 /home/gabriel/Music/Lace (Silksong OST Sample).ogg
 /home/gabriel/Music/Li Bai.ogg
@@ -84,6 +82,7 @@
 /home/gabriel/Music/Low Roar - Give Me An Answer.ogg
 /home/gabriel/Music/Low Roar - "I'll Keep Coming".ogg
 /home/gabriel/Music/Low Roar - _Nobody Loves Me Like You_.ogg
+/home/gabriel/Music/Low Roar - Poznan.ogg
 /home/gabriel/Music/Low Roar - Slow Down.ogg
 /home/gabriel/Music/Low Roar - St. Eriksplan.ogg
 /home/gabriel/Music/Low Roar - Without You.ogg
@@ -102,6 +101,7 @@
 /home/gabriel/Music/OK Go - Needing⧸Getting (Video).ogg
 /home/gabriel/Music/Ok Go - Obsession.ogg
 /home/gabriel/Music/OK Go - The One Moment.ogg
+/home/gabriel/Music/OK Go - This.ogg
 /home/gabriel/Music/OK Go - This Too Shall Pass.ogg
 /home/gabriel/Music/Old War Machines.ogg
 /home/gabriel/Music/One Step From Eden - Neverending Song - Violette_s Theme.ogg
@@ -129,7 +129,6 @@
 /home/gabriel/Music/Simon _ Garfunkel - The Sounds of Silence (Audio).ogg
 /home/gabriel/Music/Sneaky Driver.ogg
 /home/gabriel/Music/Snow.ogg
-/home/gabriel/Music/Something Stupid (From _Better Call Saul_).ogg
 /home/gabriel/Music/Space Cruise (Title).ogg
 /home/gabriel/Music/Stables (The Legend of Zelda - Breath of the Wild OST).ogg
 /home/gabriel/Music/Stal.ogg
@@ -163,6 +162,8 @@
 /home/gabriel/Music/The Oh Hellos - Passerine.ogg
 /home/gabriel/Music/The Oh Hellos - Rio Grande.ogg
 /home/gabriel/Music/The Oh Hellos - Rose.ogg
+/home/gabriel/Music/The Oh Hellos - Second Child, Restless Child.ogg
+/home/gabriel/Music/The Oh Hellos - Soap.ogg
 /home/gabriel/Music/The Oh Hellos - Soldier, Poet, King.ogg
 /home/gabriel/Music/The Oh Hellos - The Valley.ogg
 /home/gabriel/Music/The Oh Hellos - Torches.ogg
@@ -193,7 +194,6 @@
 /home/gabriel/Music/别找我麻烦.ogg
 /home/gabriel/Music/动物世界.ogg
 /home/gabriel/Music/孫燕姿 - 天黑黑.ogg
-/home/gabriel/Music/有一种悲伤.ogg
 /home/gabriel/Music/李榮浩 Ronghao Li - 年少有為.ogg
 /home/gabriel/Music/李荣浩-歌谣.ogg
 /home/gabriel/Music/蔡健雅-紅色高跟鞋.ogg
