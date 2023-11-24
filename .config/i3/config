@@ -63,6 +63,8 @@ exec --no-startup-id feh --bg-scale ~/.config/i3/wallpaper.png
 	# Change lighting
 	bindsym Ctrl+$alt+Up exec brightnessctl s 5%+
 	bindsym Ctrl+$alt+Down exec brightnessctl s 5%-
+	bindsym XF86MonBrightnessUp exec brightnessctl s 5%+
+	bindsym XF86MonBrightnessDown exec brightnessctl s 5%-
 	
 	# Take a screenshot
 	bindsym Print exec ~/.config/i3/screenshot.sh
@@ -186,6 +188,6 @@ mode "resize" {
 
 bindsym $mod+Return mode "resize"
 
-font pango: JetBrainsMono Nerd Font Mono 12
+font pango: JetBrainsMono NFM 12
 
 exec polybar

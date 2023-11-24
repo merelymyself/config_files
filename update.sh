@@ -12,9 +12,9 @@ cp ~/.config/cmus/rc ./.config/cmus/
 
 cp ~/.config/cmus/lib.pl ./.config/cmus/
 
-cp -r ~/.mozilla/firefox/6mmgdrc0.gabriel/chrome/ ./.config/firefox/
+cp -r ~/.mozilla/firefox/*/chrome/ ./.config/firefox/
 
-cp ~/.mozilla/firefox/6mmgdrc0.gabriel/user.js ./.config/firefox/
+cp ~/.mozilla/firefox/*/user.js ./.config/firefox/
 
 cp -r ~/.config/sway/ ./.config/
 

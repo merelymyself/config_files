@@ -110,19 +110,19 @@ window:
 # Font configuration
 font:
   normal:
-    family: JetBrainsMonoNL Nerd Font Mono
+    family: JetBrainsMonoNL NFM
     style: Regular
 
   bold:
-    family: JetBrainsMonoNL Nerd Font Mono
+    family: JetBrainsMonoNL NFM
     style: Bold
 
   italic:
-    family: JetBrainsMonoNL Nerd Font Mono
+    family: JetBrainsMonoNL NFM
     style: Italic
 
   bold_italic:
-    family: JetBrainsMonoNL Nerd Font Mono
+    family: JetBrainsMonoNL NFM
     style: Bold Italic
 
   size: 12

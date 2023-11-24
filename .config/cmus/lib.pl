@@ -58,11 +58,9 @@
 /home/gabriel/Music/Gunpoint OST - The Five-Floor Goodbye.ogg
 /home/gabriel/Music/Hades - Good Riddance (feat. Ashley Barrett).ogg
 /home/gabriel/Music/Hades - Hymn to Zagreus.ogg
-/home/gabriel/Music/Hades - Lament of Orpheus.ogg
 /home/gabriel/Music/Hades - The Unseen Ones (ft. Masahiro Aoki and Daisuke Kurosawa).ogg
 /home/gabriel/Music/Half-Life Alyx - Ending Triumph _ Official Soundtrack Music.ogg
 /home/gabriel/Music/Heaven_s Light_Hellfire.ogg
-/home/gabriel/Music/Hidden Motives.ogg
 /home/gabriel/Music/High-Noon Hoopla.ogg
 /home/gabriel/Music/High Seas Hi-Jinx.ogg
 /home/gabriel/Music/Hollow Knight OST - City of Tears.ogg
@@ -100,6 +98,7 @@
 /home/gabriel/Music/[Official] Celeste Original Soundtrack - 08 - Scattered and Lost.ogg
 /home/gabriel/Music/OK Go - Needing⧸Getting (Video).ogg
 /home/gabriel/Music/Ok Go - Obsession.ogg
+/home/gabriel/Music/OK Go - Skyscrapers.ogg
 /home/gabriel/Music/OK Go - The One Moment.ogg
 /home/gabriel/Music/OK Go - This.ogg
 /home/gabriel/Music/OK Go - This Too Shall Pass.ogg
@@ -147,13 +146,11 @@
 /home/gabriel/Music/The Legend of Ashitaka (Symphonic Suite _Princess Mononoke_ _ Live).ogg
 /home/gabriel/Music/The Mandalorian.ogg
 /home/gabriel/Music/The Oh Hellos - Bitter Water.ogg
-/home/gabriel/Music/The Oh Hellos - Boreas.ogg
 /home/gabriel/Music/The Oh Hellos - Cold.ogg
 /home/gabriel/Music/The Oh Hellos - Constellations.ogg
 /home/gabriel/Music/The Oh Hellos - Eat You Alive.ogg
 /home/gabriel/Music/The Oh Hellos - Eurus.ogg
 /home/gabriel/Music/The Oh Hellos - Exeunt.ogg
-/home/gabriel/Music/The Oh Hellos - Grow.ogg
 /home/gabriel/Music/The Oh Hellos - Hieroglyphs.ogg
 /home/gabriel/Music/The Oh Hellos - In Memoriam.ogg
 /home/gabriel/Music/The Oh Hellos - Lapis Lazuli.ogg
@@ -193,8 +190,11 @@
 /home/gabriel/Music/You Will Never Know.ogg
 /home/gabriel/Music/别找我麻烦.ogg
 /home/gabriel/Music/动物世界.ogg
+/home/gabriel/Music/天外来物.ogg
 /home/gabriel/Music/孫燕姿 - 天黑黑.ogg
 /home/gabriel/Music/李榮浩 Ronghao Li - 年少有為.ogg
 /home/gabriel/Music/李荣浩-歌谣.ogg
 /home/gabriel/Music/蔡健雅-紅色高跟鞋.ogg
+/home/gabriel/Music/薛之謙 - 火星人来过.ogg
 /home/gabriel/Music/说散就散.ogg
+/home/gabriel/Music/骆驼.ogg
