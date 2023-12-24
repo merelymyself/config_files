@@ -108,7 +108,6 @@
 /home/gabriel/Music/_Path of The Wind_ by Joe Hisaishi.ogg
 /home/gabriel/Music/Pieces Form the Whole (HD) - From the Soundtrack to _The Social Network_.ogg
 /home/gabriel/Music/Pigstep (Stereo Mix).ogg
-/home/gabriel/Music/Porco Rosso - Joe Hisaishi in Budokan - Studio Ghibli 25 Years Concert.ogg
 /home/gabriel/Music/Portal 2 OST - Love as a Construct.ogg
 /home/gabriel/Music/Portal 2 OST - The Friendly Faith Plate.ogg
 /home/gabriel/Music/Portal - _Still Alive_.ogg
@@ -141,6 +140,7 @@
 /home/gabriel/Music/The City Must Survive.ogg
 /home/gabriel/Music/The Crane Wives - Canary in a Coal Mine.ogg
 /home/gabriel/Music/The Crane Wives - Icarus.ogg
+/home/gabriel/Music/The Crane Wives - The Diving Bell.ogg
 /home/gabriel/Music/The Crane Wives - Tongues _ Teeth.ogg
 /home/gabriel/Music/The Crane Wives - Turn Out The Lights.ogg
 /home/gabriel/Music/The Legend of Ashitaka (Symphonic Suite _Princess Mononoke_ _ Live).ogg
