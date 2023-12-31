@@ -16,6 +16,7 @@
 /home/gabriel/Music/Breath of a Serpent.ogg
 /home/gabriel/Music/Build That Wall (Zia_s Theme).ogg
 /home/gabriel/Music/CaCO3.ogg
+/home/gabriel/Music/Can You Hear The Music.ogg
 /home/gabriel/Music/Caravan.ogg
 /home/gabriel/Music/Cat.ogg
 /home/gabriel/Music/Child.ogg
@@ -30,7 +31,6 @@
 /home/gabriel/Music/city girl _ a light is never dim, cold or alone.ogg
 /home/gabriel/Music/city girl _ winter fields (feat. mklachu).ogg
 /home/gabriel/Music/Clutch.ogg
-/home/gabriel/Music/Connor Main Theme (Connor).ogg
 /home/gabriel/Music/Cowboy Bebop OST 1 - Rush.ogg
 /home/gabriel/Music/CP Violation.ogg
 /home/gabriel/Music/Danger Mouse, Daniele Luppi - Two Against One ft. Jack White.ogg
@@ -70,7 +70,6 @@
 /home/gabriel/Music/Joe Hisaishi - One Summer_s Day.ogg
 /home/gabriel/Music/Joker Xue - Skyscrapers 摩天高楼.ogg
 /home/gabriel/Music/Journey Soundtrack (Austin Wintory) - 01. Nascence.ogg
-/home/gabriel/Music/Kara Main Theme (Kara).ogg
 /home/gabriel/Music/Katana Zero (Ost-Version).ogg
 /home/gabriel/Music/Kyoto.ogg
 /home/gabriel/Music/Lace (Silksong OST Sample).ogg
@@ -115,6 +114,7 @@
 /home/gabriel/Music/Protector of the Realm.ogg
 /home/gabriel/Music/Rain on Brick.ogg
 /home/gabriel/Music/Ratatouille Main Theme.ogg
+/home/gabriel/Music/recently,.ogg
 /home/gabriel/Music/Revali_s Theme (The Legend of Zelda - Breath of the Wild OST).ogg
 /home/gabriel/Music/Riding - Night (The Legend of Zelda - Breath of the Wild OST).ogg
 /home/gabriel/Music/rises the moon.ogg
