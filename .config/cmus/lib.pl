@@ -9,7 +9,6 @@
 /home/gabriel/Music/Aria Math.ogg
 /home/gabriel/Music/Baking The Wondertart.ogg
 /home/gabriel/Music/BIG SHOT.ogg
-/home/gabriel/Music/BoJack_s Theme (Full Length).ogg
 /home/gabriel/Music/Bonebottom (Silksong OST Sample).ogg
 /home/gabriel/Music/Botanic Panic.ogg
 /home/gabriel/Music/Brainiac Maniac.ogg
@@ -66,6 +65,8 @@
 /home/gabriel/Music/Hollow Knight OST - City of Tears.ogg
 /home/gabriel/Music/Hollow Knight OST - Hornet.ogg
 /home/gabriel/Music/I Am a Rock.ogg
+/home/gabriel/Music/伏魔御廚子 [F8BMxX4E440].ogg
+/home/gabriel/Music/霹靂 [groGdZxraOM].ogg
 /home/gabriel/Music/Joe Hisaishi - Merry-Go-Round of Life (from HowlтАЩs Moving Castle).ogg
 /home/gabriel/Music/Joe Hisaishi - One Summer_s Day.ogg
 /home/gabriel/Music/Joker Xue - Skyscrapers 摩天高楼.ogg
@@ -102,7 +103,6 @@
 /home/gabriel/Music/OK Go - This.ogg
 /home/gabriel/Music/OK Go - This Too Shall Pass.ogg
 /home/gabriel/Music/Old War Machines.ogg
-/home/gabriel/Music/One Step From Eden - Neverending Song - Violette_s Theme.ogg
 /home/gabriel/Music/Oogway Ascends.ogg
 /home/gabriel/Music/_Path of The Wind_ by Joe Hisaishi.ogg
 /home/gabriel/Music/Pieces Form the Whole (HD) - From the Soundtrack to _The Social Network_.ogg
