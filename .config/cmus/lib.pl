@@ -133,7 +133,6 @@
 /home/gabriel/Music/Stellaris Apocalypse OST -For as Long as I Shall Live -.ogg
 /home/gabriel/Music/Sweden.ogg
 /home/gabriel/Music/Synthetic God.ogg
-/home/gabriel/Music/Tarrey Town - Married (The Legend of Zelda - Breath of the Wild OST).ogg
 /home/gabriel/Music/The Altogether - Goodbye.ogg
 /home/gabriel/Music/The Arcadian Wild - Envy Green.ogg
 /home/gabriel/Music/The Bells of Notre Dame.ogg
@@ -151,6 +150,7 @@
 /home/gabriel/Music/The Oh Hellos - Eat You Alive.ogg
 /home/gabriel/Music/The Oh Hellos - Eurus.ogg
 /home/gabriel/Music/The Oh Hellos - Exeunt.ogg
+/home/gabriel/Music/The Oh Hellos - Glowing.ogg
 /home/gabriel/Music/The Oh Hellos - Hieroglyphs.ogg
 /home/gabriel/Music/The Oh Hellos - In Memoriam.ogg
 /home/gabriel/Music/The Oh Hellos - Lapis Lazuli.ogg
