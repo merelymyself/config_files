@@ -143,7 +143,6 @@
 /home/gabriel/Music/The Crane Wives - Tongues _ Teeth.ogg
 /home/gabriel/Music/The Crane Wives - Turn Out The Lights.ogg
 /home/gabriel/Music/The Legend of Ashitaka (Symphonic Suite _Princess Mononoke_ _ Live).ogg
-/home/gabriel/Music/The Mandalorian.ogg
 /home/gabriel/Music/The Oh Hellos - Bitter Water.ogg
 /home/gabriel/Music/The Oh Hellos - Cold.ogg
 /home/gabriel/Music/The Oh Hellos - Constellations.ogg
@@ -162,6 +161,7 @@
 /home/gabriel/Music/The Oh Hellos - Second Child, Restless Child.ogg
 /home/gabriel/Music/The Oh Hellos - Soap.ogg
 /home/gabriel/Music/The Oh Hellos - Soldier, Poet, King.ogg
+/home/gabriel/Music/The Oh Hellos - Theseus.ogg
 /home/gabriel/Music/The Oh Hellos - The Valley.ogg
 /home/gabriel/Music/The Oh Hellos - Torches.ogg
 /home/gabriel/Music/The Oh Hellos - Where Is Your Rider.ogg
@@ -191,7 +191,7 @@
 /home/gabriel/Music/别找我麻烦.ogg
 /home/gabriel/Music/动物世界.ogg
 /home/gabriel/Music/天外来物.ogg
-/home/gabriel/Music/孫燕姿 - 天黑黑.ogg
+/home/gabriel/Music/孫燕姿 風衣.ogg
 /home/gabriel/Music/李榮浩 Ronghao Li - 年少有為.ogg
 /home/gabriel/Music/李荣浩-歌谣.ogg
 /home/gabriel/Music/蔡健雅-紅色高跟鞋.ogg
