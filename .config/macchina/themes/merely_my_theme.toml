@@ -4,8 +4,8 @@ spacing         = 3
 padding         = 3
 hide_ascii      = true
 separator       = "=="
-key_color       = "#5E81AC"
-separator_color = "#88C0D0"
+key_color       = "#ff79c6"
+separator_color = "#8be9fd"
 
 [palette]
 type = "Dark"

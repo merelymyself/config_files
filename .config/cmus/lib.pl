@@ -42,7 +42,6 @@
 /home/gabriel/Music/Faster Than Light (From Stellaris Original Game Soundtrack) (Instrumental).ogg
 /home/gabriel/Music/FE Three Houses OST - 20. God Shattering Star (Rain).ogg
 /home/gabriel/Music/Floral Fury.ogg
-/home/gabriel/Music/Florence Original Soundtrack 01 Florence.ogg
 /home/gabriel/Music/Flowers Never Bend with the Rainfall.ogg
 /home/gabriel/Music/Franz Ferdinand - Take Me Out.ogg
 /home/gabriel/Music/This Fire.ogg
@@ -138,6 +137,7 @@
 /home/gabriel/Music/The Bells of Notre Dame.ogg
 /home/gabriel/Music/The City Must Survive.ogg
 /home/gabriel/Music/The Crane Wives - Canary in a Coal Mine.ogg
+/home/gabriel/Music/The Crane Wives - Curses.ogg
 /home/gabriel/Music/The Crane Wives - Icarus.ogg
 /home/gabriel/Music/The Crane Wives - The Diving Bell.ogg
 /home/gabriel/Music/The Crane Wives - Tongues _ Teeth.ogg

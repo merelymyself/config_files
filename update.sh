@@ -30,6 +30,8 @@ cp -r ~/.config/wofi/ ./.config/
 
 cp -r ~/.config/mako/ ./.config/
 
+cp -r ~/.config/picom/ ./.config/
+
 cp ~/.config/swaylock/config ./.config/swaylock/
 
 cp /etc/ly/config.ini ./etc/ly

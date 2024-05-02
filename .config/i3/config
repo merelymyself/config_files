@@ -14,10 +14,10 @@ gaps outer 1
 gaps inner 8
 
 for_window [class=".*"] border pixel 3
-client.focused "#88c0d0" "#88c0d0" "#88c0d0" "#bf616a"
-client.focused_inactive "#3b4252" "#3b4252" "#3b4252" "#3b4252"
-client.unfocused "#3b4252" "#3b4252" "#3b4252" "#3b4252" 
-client.urgent "#88c0d0" "#88c0d0" "#88c0d0" "#bf616a"
+client.focused "#bd93f9" "#bd93f9" "#bd93f9" "#ff5555"
+client.focused_inactive "#44475a" "#44475a" "#44475a" "#44475a"
+client.unfocused "#44475a" "#44475a" "#44475a" "#44475a"
+client.urgent "#ffb86c" "#ffb86c" "#ffb86c" "#ffb86c"
 
 exec --no-startup-id systemctl start bluetooth.service
 exec --no-startup-id xrandr --dpi 90
@@ -31,8 +31,9 @@ exec --no-startup-id fcitx5
 exec --no-startup-id xset -b
 exec --no-startup-id copyq &
 exec --no-startup-id setxkbmap -model pc105 -layout 'us,cn' -option 'grp:win_space_toggle'
-
+exec --no-startup-id polybar
 exec --no-startup-id feh --bg-scale ~/.config/i3/wallpaper.png
+exec --no-startup-id picom-trans --window 0x800002 85
 
 ### Key bindings
 #
@@ -190,4 +191,3 @@ bindsym $mod+Return mode "resize"
 
 font pango: JetBrainsMono NFM 12
 
-exec polybar
