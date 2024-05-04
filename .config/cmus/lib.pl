@@ -139,6 +139,7 @@
 /home/gabriel/Music/The Crane Wives - Canary in a Coal Mine.ogg
 /home/gabriel/Music/The Crane Wives - Curses.ogg
 /home/gabriel/Music/The Crane Wives - Icarus.ogg
+/home/gabriel/Music/The Crane Wives - Metaphor.ogg
 /home/gabriel/Music/The Crane Wives - The Diving Bell.ogg
 /home/gabriel/Music/The Crane Wives - Tongues _ Teeth.ogg
 /home/gabriel/Music/The Crane Wives - Turn Out The Lights.ogg
@@ -180,7 +181,6 @@
 /home/gabriel/Music/Transistor Original Soundtrack - We All Become.ogg
 /home/gabriel/Music/Travelers.ogg
 /home/gabriel/Music/Triage at Dawn.ogg
-/home/gabriel/Music/Ultimate Battle.ogg
 /home/gabriel/Music/Undertale OST - 063 - It_s Raining Somewhere Else.ogg
 /home/gabriel/Music/Death By Glamour.ogg
 /home/gabriel/Music/Vignette - Panacea - Hyper Light Drifter OST.ogg
