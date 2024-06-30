@@ -1,150 +1,159 @@
-/home/gabriel/Music/08 Pale Court (Hollow Knight - Gods _ Nightmares).ogg
-/home/gabriel/Music/15 - Confessions in the Moonlight CitS OST.ogg
-/home/gabriel/Music/Admission to Perdition.ogg
-/home/gabriel/Music/AG.ogg
-/home/gabriel/Music/All for Now.ogg
-/home/gabriel/Music/Among The Ruins.ogg
-/home/gabriel/Music/An Endless Desert.ogg
-/home/gabriel/Music/Anti-Citizen.ogg
-/home/gabriel/Music/Aria Math.ogg
-/home/gabriel/Music/Baking The Wondertart.ogg
-/home/gabriel/Music/BIG SHOT.ogg
-/home/gabriel/Music/Bonebottom (Silksong OST Sample).ogg
-/home/gabriel/Music/Botanic Panic.ogg
-/home/gabriel/Music/Brainiac Maniac.ogg
-/home/gabriel/Music/Breath of a Serpent.ogg
-/home/gabriel/Music/Build That Wall (Zia_s Theme).ogg
-/home/gabriel/Music/CaCO3.ogg
-/home/gabriel/Music/Can You Hear The Music.ogg
-/home/gabriel/Music/Caravan.ogg
-/home/gabriel/Music/Cat.ogg
-/home/gabriel/Music/Child.ogg
-/home/gabriel/Music/Chinatown.ogg
-/home/gabriel/Music/Chris Christodoulou - Chanson d_Automne.. _ Risk of Rain (2013).ogg
-/home/gabriel/Music/Chris Christodoulou - Coalescence _ Risk of Rain (2013).ogg
-/home/gabriel/Music/Chris Christodoulou - Into the Doldrums _ Risk of Rain 2 (2020).ogg
-/home/gabriel/Music/Chris Christodoulou - The Raindrop that Fell to the Sky _ Risk of Rain 2 (2020).ogg
-/home/gabriel/Music/Chris Christodoulou - The Rain Formerly Known as Purple  _ Risk of Rain 2 (2020).ogg
-/home/gabriel/Music/Chris Christodoulou - They Might As Well Be Dead _ ROR2 - Survivors of the Void (2022).ogg
-/home/gabriel/Music/Chris Christodoulou -  тАжcon lentitud poderosa _ Risk of Rain 2 (2020).ogg
-/home/gabriel/Music/city girl _ a light is never dim, cold or alone.ogg
-/home/gabriel/Music/city girl _ winter fields (feat. mklachu).ogg
-/home/gabriel/Music/Clutch.ogg
-/home/gabriel/Music/Cowboy Bebop OST 1 - Rush.ogg
-/home/gabriel/Music/CP Violation.ogg
+/home/gabriel/Music/Bastion OST - Build That Wall (Zia's Theme).ogg
+/home/gabriel/Music/Benson Boone - Beautiful Things.ogg
+/home/gabriel/Music/Berlinist - Debris - Gris OST.ogg
+/home/gabriel/Music/Celeste B-Sides OST - 2 Mello - Mirror Temple (Mirror Magic Mix).ogg
+/home/gabriel/Music/Celeste B-Sides OST - Christa Lee - Celestial Resort (Good Karma Mix).ogg
+/home/gabriel/Music/Celeste OST - Resurrections.ogg
+/home/gabriel/Music/Celeste OST - Scattered and Lost.ogg
+/home/gabriel/Music/Chris Christodoulou - Chanson d'Automne.. - Risk of Rain OST.ogg
+/home/gabriel/Music/Chris Christodoulou - Coalescence - Risk of Rain OST.ogg
+/home/gabriel/Music/Chris Christodoulou - ...con lentitud poderosa - Risk of Rain 2 OST.ogg
+/home/gabriel/Music/Chris Christodoulou - Into the Doldrums - Risk of Rain 2 OST.ogg
+/home/gabriel/Music/Chris Christodoulou - The Raindrop that Fell to the Sky - Risk of Rain 2 OST.ogg
+/home/gabriel/Music/Chris Christodoulou - The Rain Formerly Known as Purple - Risk of Rain 2 OST.ogg
+/home/gabriel/Music/Chris Christodoulou - They Might As Well Be Dead - ROR2: Survivors of the Void OST.ogg
+/home/gabriel/Music/city girl - a light is never dim, cold or alone.ogg
+/home/gabriel/Music/city girl - winter fields (feat. mklachu).ogg
+/home/gabriel/Music/Cowboy Bebop OST - Clutch.ogg
+/home/gabriel/Music/Cowboy Bebop OST - Rush.ogg
+/home/gabriel/Music/Cuphead OST - Admission to Perdition.ogg
+/home/gabriel/Music/Cuphead OST - Baking The Wondertart.ogg
+/home/gabriel/Music/Cuphead OST - Botanic Panic.ogg
+/home/gabriel/Music/Cuphead OST - Floral Fury.ogg
+/home/gabriel/Music/Cuphead OST - High-Noon Hoopla.ogg
+/home/gabriel/Music/Cuphead OST - High Seas Hi-Jinx.ogg
+/home/gabriel/Music/Cuphead OST - Murine Corps.ogg
 /home/gabriel/Music/Danger Mouse, Daniele Luppi - Two Against One ft. Jack White.ogg
-/home/gabriel/Music/Daniel Pemberton - The Prowler (From _Spider-Man - Into the Spider-Verse_ Score).ogg
-/home/gabriel/Music/Debris.ogg
-/home/gabriel/Music/Deliver Us (The Prince Of Egypt_Soundtrack Version).ogg
-/home/gabriel/Music/Disco Elysium OST - Whirling Cafeteria(Day) .ogg
-/home/gabriel/Music/Disney Pixar_s Inside Out - 01 - Bundle Of Joy.ogg
-/home/gabriel/Music/Dr Style (Shopcat Remix).ogg
-/home/gabriel/Music/Faster Than Light (From Stellaris Original Game Soundtrack) (Instrumental).ogg
-/home/gabriel/Music/FE Three Houses OST - 20. God Shattering Star (Rain).ogg
-/home/gabriel/Music/Floral Fury.ogg
+/home/gabriel/Music/Daniel Pemberton - The Prowler - Spider-Man: Into the Spider-Verse Score.ogg
+/home/gabriel/Music/Deltarune OST - BIG SHOT.ogg
+/home/gabriel/Music/Deltarune OST - THE WORLD REVOLVING.ogg
+/home/gabriel/Music/Disco Elysium OST - Whirling Cafeteria (Day).ogg
+/home/gabriel/Music/FE Three Houses OST - God Shattering Star (Rain).ogg
 /home/gabriel/Music/Flowers Never Bend with the Rainfall.ogg
 /home/gabriel/Music/Franz Ferdinand - Take Me Out.ogg
-/home/gabriel/Music/This Fire.ogg
+/home/gabriel/Music/Franz Ferdinand - This Fire.ogg
 /home/gabriel/Music/Free Bird.ogg
+/home/gabriel/Music/FTL OST - Space Cruise (Title).ogg
 /home/gabriel/Music/Full Confession.ogg
-/home/gabriel/Music/Giant Steps.ogg
-/home/gabriel/Music/Grasswalk.ogg
-/home/gabriel/Music/Graze the Roof.ogg
+/home/gabriel/Music/Game of Thrones Soundtrack - The Rains Of Castamere.ogg
+/home/gabriel/Music/Game of Thrones Soundtrack - The Thone Is Mine.ogg
 /home/gabriel/Music/Gunpoint OST - Defenestraight To My Heart.ogg
 /home/gabriel/Music/Gunpoint OST - Main Theme (Melancholia).ogg
-/home/gabriel/Music/Gunpoint OST - _Round Gunpoint.ogg
+/home/gabriel/Music/Gunpoint OST - 'Round Gunpoint.ogg
 /home/gabriel/Music/Gunpoint OST - The Five-Floor Goodbye.ogg
-/home/gabriel/Music/Hades - Good Riddance (feat. Ashley Barrett).ogg
-/home/gabriel/Music/Hades - Hymn to Zagreus.ogg
-/home/gabriel/Music/Hades - The Unseen Ones (ft. Masahiro Aoki and Daisuke Kurosawa).ogg
-/home/gabriel/Music/Half-Life Alyx - Ending Triumph _ Official Soundtrack Music.ogg
-/home/gabriel/Music/Heaven_s Light_Hellfire.ogg
-/home/gabriel/Music/High-Noon Hoopla.ogg
-/home/gabriel/Music/High Seas Hi-Jinx.ogg
+/home/gabriel/Music/Hades OST - Good Riddance (feat. Ashley Barrett).ogg
+/home/gabriel/Music/Hades OST - Hymn to Zagreus.ogg
+/home/gabriel/Music/Hades OST - The Unseen Ones (ft. Masahiro Aoki and Daisuke Kurosawa).ogg
+/home/gabriel/Music/Half-Life 2 OST - CP Violation.ogg
+/home/gabriel/Music/Half-Life 2 OST - Triage at Dawn.ogg
+/home/gabriel/Music/Half-Life Alyx OST - HIRE.ogg
 /home/gabriel/Music/Hollow Knight OST - City of Tears.ogg
 /home/gabriel/Music/Hollow Knight OST - Hornet.ogg
-/home/gabriel/Music/I Am a Rock.ogg
-/home/gabriel/Music/伏魔御廚子 [F8BMxX4E440].ogg
-/home/gabriel/Music/霹靂 [groGdZxraOM].ogg
-/home/gabriel/Music/Joe Hisaishi - Merry-Go-Round of Life (from HowlтАЩs Moving Castle).ogg
-/home/gabriel/Music/Joe Hisaishi - One Summer_s Day.ogg
-/home/gabriel/Music/Joker Xue - Skyscrapers 摩天高楼.ogg
-/home/gabriel/Music/Journey Soundtrack (Austin Wintory) - 01. Nascence.ogg
-/home/gabriel/Music/Katana Zero (Ost-Version).ogg
-/home/gabriel/Music/Kyoto.ogg
-/home/gabriel/Music/Lace (Silksong OST Sample).ogg
-/home/gabriel/Music/Li Bai.ogg
-/home/gabriel/Music/Low Roar - _Bones_ (feat. Jófríõur Ákadóttir) [Official Audio].ogg
-/home/gabriel/Music/Low Roar - Don_t Be So Serious.ogg
+/home/gabriel/Music/Hollow Knight OST - Pale Court.ogg
+/home/gabriel/Music/Hollow Knight: Silksong OST - Bonebottom.ogg
+/home/gabriel/Music/Hollow Knight: Silksong OST - Lace.ogg
+/home/gabriel/Music/House Of The Dragon Soundtrack - Protector of the Realm.ogg
+/home/gabriel/Music/How To Train Your Dragon Score - Romantic Flight.ogg
+/home/gabriel/Music/Hyper Light Drifter OST - Vignette - Panacea.ogg
+/home/gabriel/Music/Into the Breach OST - Old War Machines.ogg
+/home/gabriel/Music/Invisible Inc. OST - Dr Style (Shopcat Remix).ogg
+/home/gabriel/Music/JJK S2 OST - 伏魔御廚子.ogg
+/home/gabriel/Music/JJK S2 OST - 霹靂.ogg
+/home/gabriel/Music/Joe Hisaishi - Confessions in the Moonlight (from Castle In The Sky).ogg
+/home/gabriel/Music/Joe Hisaishi - Merry-Go-Round of Life (from Howl's Moving Castle).ogg
+/home/gabriel/Music/Joe Hisaishi - Mononoke Hime (from Princess Mononoke).ogg
+/home/gabriel/Music/Joe Hisaishi - One Summer's Day (from Spirited Away Score).ogg
+/home/gabriel/Music/Joe Hisaishi - Path of the Wind (from My Neighbour Totoro).ogg
+/home/gabriel/Music/Joe Hisaishi - The Legend of Ashitaka (Symphonic Suite "Princess Mononoke" - Live).ogg
+/home/gabriel/Music/Joe Hisaishi - The Sixth Station (from Spirited Away Score).ogg
+/home/gabriel/Music/John Coltrane - Giant Steps.ogg
+/home/gabriel/Music/John Michael Howell - Mr. Feel.ogg
+/home/gabriel/Music/Journey Soundtrack (Austin Wintory) - Nascence.ogg
+/home/gabriel/Music/Katana Zero OST - All for Now.ogg
+/home/gabriel/Music/Katana Zero OST - Breath of a Serpent.ogg
+/home/gabriel/Music/Katana Zero OST - Chinatown.ogg
+/home/gabriel/Music/Katana Zero OST - Katana Zero.ogg
+/home/gabriel/Music/Katana Zero OST - Rain on Brick.ogg
+/home/gabriel/Music/Katana Zero OST - Sneaky Driver.ogg
+/home/gabriel/Music/Katana Zero OST - Snow.ogg
+/home/gabriel/Music/Katana Zero OST - You Will Never Know.ogg
+/home/gabriel/Music/Kung Fu Panda Score - Oogway Ascends.ogg
+/home/gabriel/Music/Laufey - Falling Behind.ogg
+/home/gabriel/Music/liana flores - recently,.ogg
+/home/gabriel/Music/liana flores - rises the moon.ogg
+/home/gabriel/Music/Louie Zong - thumbnail (ft. brian david gilbert).ogg
+/home/gabriel/Music/Low Roar - Bones (feat. Jófríõur Ákadóttir) [Official Audio].ogg
+/home/gabriel/Music/Low Roar - Don't Be So Serious.ogg
 /home/gabriel/Music/Low Roar - Give Me An Answer.ogg
 /home/gabriel/Music/Low Roar - "I'll Keep Coming".ogg
-/home/gabriel/Music/Low Roar - _Nobody Loves Me Like You_.ogg
+/home/gabriel/Music/Low Roar - I Won't Be Long.ogg
+/home/gabriel/Music/Low Roar - Nobody Loves Me Like You.ogg
 /home/gabriel/Music/Low Roar - Poznan.ogg
 /home/gabriel/Music/Low Roar - Slow Down.ogg
 /home/gabriel/Music/Low Roar - St. Eriksplan.ogg
 /home/gabriel/Music/Low Roar - Without You.ogg
-/home/gabriel/Music/Michael Giacchino - Jyn Erso _ Hope Suite (From _Rogue One - A Star Wars Story__Audio Only).ogg
-/home/gabriel/Music/Miley Cyrus - The Backyard Sessions - _Jolene_.ogg
-/home/gabriel/Music/Mipha_s Theme (The Legend of Zelda - Breath of the Wild OST).ogg
+/home/gabriel/Music/Michael Giacchino - Bundle Of Joy - Inside Out Score.ogg
+/home/gabriel/Music/Michael Giacchino - Jyn Erso & Hope Suite - Rogue One - A Star Wars Story Score.ogg
+/home/gabriel/Music/Michael Giacchino - Ratatouille Main Theme.ogg
+/home/gabriel/Music/Miley Cyrus - Jolene - The Backyard Sessions.ogg
+/home/gabriel/Music/Minecraft OST - Aria Math.ogg
+/home/gabriel/Music/Minecraft OST - Cat.ogg
+/home/gabriel/Music/Minecraft OST - Kyoto.ogg
+/home/gabriel/Music/Minecraft OST - Pigstep.ogg
+/home/gabriel/Music/Minecraft OST - Stal.ogg
+/home/gabriel/Music/Minecraft OST - Sweden.ogg
+/home/gabriel/Music/Minecraft OST - Wet Hands.ogg
+/home/gabriel/Music/Mitski - My Love Mine All Mine.ogg
 /home/gabriel/Music/Mittsies - Titanium.ogg
 /home/gabriel/Music/Mittsies - Vitality.ogg
-/home/gabriel/Music/Murine Corps.ogg
+/home/gabriel/Music/Monument Valley 2 OST - Child.ogg
 /home/gabriel/Music/Night in the Woods OST - Longest Night.ogg
-/home/gabriel/Music/Title.ogg
-/home/gabriel/Music/[Official] Celeste B-Sides - 03 - Christa Lee - Celestial Resort (Good Karma Mix).ogg
-/home/gabriel/Music/[Official] Celeste B-Sides - 05 - 2 Mello - Mirror Temple (Mirror Magic Mix).ogg
-/home/gabriel/Music/[Official] Celeste Original Soundtrack - 03 - Resurrections.ogg
-/home/gabriel/Music/[Official] Celeste Original Soundtrack - 08 - Scattered and Lost.ogg
+/home/gabriel/Music/Night in the Woods OST - Title.ogg
 /home/gabriel/Music/OK Go - Needing⧸Getting (Video).ogg
 /home/gabriel/Music/Ok Go - Obsession.ogg
 /home/gabriel/Music/OK Go - Skyscrapers.ogg
 /home/gabriel/Music/OK Go - The One Moment.ogg
 /home/gabriel/Music/OK Go - This.ogg
 /home/gabriel/Music/OK Go - This Too Shall Pass.ogg
-/home/gabriel/Music/Old War Machines.ogg
-/home/gabriel/Music/Oogway Ascends.ogg
-/home/gabriel/Music/_Path of The Wind_ by Joe Hisaishi.ogg
-/home/gabriel/Music/Pieces Form the Whole (HD) - From the Soundtrack to _The Social Network_.ogg
-/home/gabriel/Music/Pigstep (Stereo Mix).ogg
+/home/gabriel/Music/Oppenheimer OST - Can You Hear The Music.ogg
+/home/gabriel/Music/Plants vs. Zombies OST - Brainiac Maniac.ogg
+/home/gabriel/Music/Plants vs. Zombies OST - Graze the Roof.ogg
+/home/gabriel/Music/Plants vs. Zombies OST - Watery Graves.ogg
 /home/gabriel/Music/Portal 2 OST - Love as a Construct.ogg
 /home/gabriel/Music/Portal 2 OST - The Friendly Faith Plate.ogg
-/home/gabriel/Music/Portal - _Still Alive_.ogg
-/home/gabriel/Music/Princess Mononoke Main Theme.ogg
-/home/gabriel/Music/Protector of the Realm.ogg
-/home/gabriel/Music/Rain on Brick.ogg
-/home/gabriel/Music/Ratatouille Main Theme.ogg
-/home/gabriel/Music/recently,.ogg
-/home/gabriel/Music/Revali_s Theme (The Legend of Zelda - Breath of the Wild OST).ogg
-/home/gabriel/Music/Riding - Night (The Legend of Zelda - Breath of the Wild OST).ogg
-/home/gabriel/Music/rises the moon.ogg
-/home/gabriel/Music/Rito Village - Night (The Legend of Zelda - Breath of the Wild OST).ogg
-/home/gabriel/Music/Romantic Flight (From How To Train Your Dragon Music From The Motion Picture).ogg
-/home/gabriel/Music/Rough Trail (Rimworld OST).ogg
-/home/gabriel/Music/Si02.ogg
-/home/gabriel/Music/Simon _ Garfunkel - Scarborough Fair_Canticle (Audio).ogg
-/home/gabriel/Music/Simon _ Garfunkel - The Boxer (Audio).ogg
-/home/gabriel/Music/Simon _ Garfunkel - The Sounds of Silence (Audio).ogg
-/home/gabriel/Music/Sneaky Driver.ogg
-/home/gabriel/Music/Snow.ogg
-/home/gabriel/Music/Space Cruise (Title).ogg
-/home/gabriel/Music/Stables (The Legend of Zelda - Breath of the Wild OST).ogg
-/home/gabriel/Music/Stal.ogg
-/home/gabriel/Music/Stellaris Apocalypse OST -For as Long as I Shall Live -.ogg
-/home/gabriel/Music/Sweden.ogg
-/home/gabriel/Music/Synthetic God.ogg
+/home/gabriel/Music/Rimworld OST - Rough Trail.ogg
+/home/gabriel/Music/Simon & Garfunkel - I Am a Rock.ogg
+/home/gabriel/Music/Simon & Garfunkel - Scarborough Fair⧸Canticle.ogg
+/home/gabriel/Music/Simon & Garfunkel - The Boxer.ogg
+/home/gabriel/Music/Simon & Garfunkel - The Sounds of Silence.ogg
+/home/gabriel/Music/Stellaris OST - For as Long as I Shall Live.ogg
+/home/gabriel/Music/Surviving Mars OST - AG.ogg
+/home/gabriel/Music/Surviving Mars OST - CaCO3.ogg
+/home/gabriel/Music/Surviving Mars OST - Si02.ogg
 /home/gabriel/Music/The Altogether - Goodbye.ogg
 /home/gabriel/Music/The Arcadian Wild - Envy Green.ogg
 /home/gabriel/Music/The Bells of Notre Dame.ogg
 /home/gabriel/Music/The City Must Survive.ogg
 /home/gabriel/Music/The Crane Wives - Canary in a Coal Mine.ogg
+/home/gabriel/Music/The Crane Wives - Can't Have It All.ogg
 /home/gabriel/Music/The Crane Wives - Curses.ogg
+/home/gabriel/Music/The Crane Wives - Easier.ogg
 /home/gabriel/Music/The Crane Wives - Icarus.ogg
+/home/gabriel/Music/The Crane Wives - Little Soldiers.ogg
 /home/gabriel/Music/The Crane Wives - Metaphor.ogg
 /home/gabriel/Music/The Crane Wives - The Diving Bell.ogg
+/home/gabriel/Music/The Crane Wives - The Moon Will Sing.ogg
 /home/gabriel/Music/The Crane Wives - Tongues _ Teeth.ogg
 /home/gabriel/Music/The Crane Wives - Turn Out The Lights.ogg
-/home/gabriel/Music/The Legend of Ashitaka (Symphonic Suite _Princess Mononoke_ _ Live).ogg
+/home/gabriel/Music/The Hunchback Of Notre Dame Score - Heaven's Light⧸Hellfire.ogg
+/home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Mipha's Theme.ogg
+/home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Revali's Theme.ogg
+/home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Riding - Night.ogg
+/home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Rito Village - Night.ogg
+/home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Stables.ogg
+/home/gabriel/Music/The Legend of Zelda - Ocarina of Time OST - Title Theme.ogg
 /home/gabriel/Music/The Oh Hellos - Bitter Water.ogg
+/home/gabriel/Music/The Oh Hellos - Caesar.ogg
 /home/gabriel/Music/The Oh Hellos - Cold.ogg
 /home/gabriel/Music/The Oh Hellos - Constellations.ogg
 /home/gabriel/Music/The Oh Hellos - Eat You Alive.ogg
@@ -166,35 +175,26 @@
 /home/gabriel/Music/The Oh Hellos - The Valley.ogg
 /home/gabriel/Music/The Oh Hellos - Torches.ogg
 /home/gabriel/Music/The Oh Hellos - Where Is Your Rider.ogg
-/home/gabriel/Music/The Plagues (The Prince Of Egypt_Soundtrack Version).ogg
-/home/gabriel/Music/The Rains Of Castamere.ogg
-/home/gabriel/Music/The Sixth Station (Spirited Away).ogg
-/home/gabriel/Music/The Throne Is Mine.ogg
-/home/gabriel/Music/THE WORLD REVOLVING-Z01Tsgwe2dQ.ogg
-/home/gabriel/Music/thumbnail (ft. brian david gilbert).ogg
-/home/gabriel/Music/Title Theme - The Legend of Zelda - Ocarina of Time.ogg
-/home/gabriel/Music/Transistor - Bonus Track - She Shines.ogg
+/home/gabriel/Music/The Prince Of Egypt Score - The Plagues.ogg
+/home/gabriel/Music/Todd Baker - An Endless Desert - Alto's Odyssey OST.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - In Circles.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - Old Friends.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - Paper Boats.ogg
+/home/gabriel/Music/Transistor Original Soundtrack - She Shines (Bonus Track).ogg
 /home/gabriel/Music/Transistor Original Soundtrack - The Spine.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - We All Become.ogg
-/home/gabriel/Music/Travelers.ogg
-/home/gabriel/Music/Triage at Dawn.ogg
-/home/gabriel/Music/Undertale OST - 063 - It_s Raining Somewhere Else.ogg
-/home/gabriel/Music/Death By Glamour.ogg
-/home/gabriel/Music/Vignette - Panacea - Hyper Light Drifter OST.ogg
-/home/gabriel/Music/Warhammer 40,000 Mechanicus Soundtrack - 1. Children of the Omnissiah.ogg
-/home/gabriel/Music/Watery Graves (In-Game).ogg
-/home/gabriel/Music/Wet Hands.ogg
-/home/gabriel/Music/You Will Never Know.ogg
-/home/gabriel/Music/别找我麻烦.ogg
-/home/gabriel/Music/动物世界.ogg
-/home/gabriel/Music/天外来物.ogg
-/home/gabriel/Music/孫燕姿 風衣.ogg
-/home/gabriel/Music/李榮浩 Ronghao Li - 年少有為.ogg
-/home/gabriel/Music/李荣浩-歌谣.ogg
-/home/gabriel/Music/蔡健雅-紅色高跟鞋.ogg
-/home/gabriel/Music/薛之謙 - 火星人来过.ogg
-/home/gabriel/Music/说散就散.ogg
-/home/gabriel/Music/骆驼.ogg
+/home/gabriel/Music/Undertale OST - Death By Glamour.ogg
+/home/gabriel/Music/Undertale OST - It's Raining Somewhere Else.ogg
+/home/gabriel/Music/Warhammer 40,000 Mechanicus Soundtrack - Children of the Omnissiah.ogg
+/home/gabriel/Music/Whiplash OST - Caravan.ogg
+/home/gabriel/Music/孫燕姿 Stefanie Sun - 风衣.ogg
+/home/gabriel/Music/李榮浩 Li Ronghao - 年少有為.ogg
+/home/gabriel/Music/李榮浩 Li Ronghao - 李白.ogg
+/home/gabriel/Music/蔡健雅 Tanya Chua - 别找我麻烦.ogg
+/home/gabriel/Music/蔡健雅 Tanya Chua - 红色高跟鞋.ogg
+/home/gabriel/Music/薛之谦 Joker Xue - 动物世界.ogg
+/home/gabriel/Music/薛之谦 Joker Xue - 天外来物.ogg
+/home/gabriel/Music/薛之谦 Joker Xue - 摩天高楼.ogg
+/home/gabriel/Music/薛之谦 Joker Xue - 火星人来过.ogg
+/home/gabriel/Music/薛之谦 Joker Xue - 骆驼.ogg
+/home/gabriel/Music/陈泳彤 Jennifer Chan - 说散就散.ogg
