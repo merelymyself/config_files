@@ -1,6 +1,7 @@
 /home/gabriel/Music/Bastion OST - Build That Wall (Zia's Theme).ogg
 /home/gabriel/Music/Benson Boone - Beautiful Things.ogg
 /home/gabriel/Music/Berlinist - Debris - Gris OST.ogg
+/home/gabriel/Music/Camille, Michael Giacchino - Le Festin.ogg
 /home/gabriel/Music/Celeste B-Sides OST - 2 Mello - Mirror Temple (Mirror Magic Mix).ogg
 /home/gabriel/Music/Celeste B-Sides OST - Christa Lee - Celestial Resort (Good Karma Mix).ogg
 /home/gabriel/Music/Celeste OST - Resurrections.ogg
@@ -28,13 +29,12 @@
 /home/gabriel/Music/Deltarune OST - BIG SHOT.ogg
 /home/gabriel/Music/Deltarune OST - THE WORLD REVOLVING.ogg
 /home/gabriel/Music/Disco Elysium OST - Whirling Cafeteria (Day).ogg
+/home/gabriel/Music/Evan Call - Frieren the Slayer (Frieren: Beyond Journey's End).ogg
+/home/gabriel/Music/Evan Call - Zoltraak (Frieren: Beyond Journey's End).ogg
 /home/gabriel/Music/FE Three Houses OST - God Shattering Star (Rain).ogg
-/home/gabriel/Music/Flowers Never Bend with the Rainfall.ogg
 /home/gabriel/Music/Franz Ferdinand - Take Me Out.ogg
 /home/gabriel/Music/Franz Ferdinand - This Fire.ogg
-/home/gabriel/Music/Free Bird.ogg
 /home/gabriel/Music/FTL OST - Space Cruise (Title).ogg
-/home/gabriel/Music/Full Confession.ogg
 /home/gabriel/Music/Game of Thrones Soundtrack - The Rains Of Castamere.ogg
 /home/gabriel/Music/Game of Thrones Soundtrack - The Thone Is Mine.ogg
 /home/gabriel/Music/Gunpoint OST - Defenestraight To My Heart.ogg
@@ -47,6 +47,7 @@
 /home/gabriel/Music/Half-Life 2 OST - CP Violation.ogg
 /home/gabriel/Music/Half-Life 2 OST - Triage at Dawn.ogg
 /home/gabriel/Music/Half-Life Alyx OST - HIRE.ogg
+/home/gabriel/Music/Hitomi - LOVE 2000 (CV: Hikaru Tono).ogg
 /home/gabriel/Music/Hollow Knight OST - City of Tears.ogg
 /home/gabriel/Music/Hollow Knight OST - Hornet.ogg
 /home/gabriel/Music/Hollow Knight OST - Pale Court.ogg
@@ -54,6 +55,7 @@
 /home/gabriel/Music/Hollow Knight: Silksong OST - Lace.ogg
 /home/gabriel/Music/House Of The Dragon Soundtrack - Protector of the Realm.ogg
 /home/gabriel/Music/How To Train Your Dragon Score - Romantic Flight.ogg
+/home/gabriel/Music/Hozier - Too Sweet.ogg
 /home/gabriel/Music/Hyper Light Drifter OST - Vignette - Panacea.ogg
 /home/gabriel/Music/Into the Breach OST - Old War Machines.ogg
 /home/gabriel/Music/Invisible Inc. OST - Dr Style (Shopcat Remix).ogg
@@ -72,12 +74,12 @@
 /home/gabriel/Music/Katana Zero OST - All for Now.ogg
 /home/gabriel/Music/Katana Zero OST - Breath of a Serpent.ogg
 /home/gabriel/Music/Katana Zero OST - Chinatown.ogg
+/home/gabriel/Music/Katana Zero OST - Full Confession.ogg
 /home/gabriel/Music/Katana Zero OST - Katana Zero.ogg
 /home/gabriel/Music/Katana Zero OST - Rain on Brick.ogg
 /home/gabriel/Music/Katana Zero OST - Sneaky Driver.ogg
 /home/gabriel/Music/Katana Zero OST - Snow.ogg
 /home/gabriel/Music/Katana Zero OST - You Will Never Know.ogg
-/home/gabriel/Music/Kung Fu Panda Score - Oogway Ascends.ogg
 /home/gabriel/Music/Laufey - Falling Behind.ogg
 /home/gabriel/Music/liana flores - recently,.ogg
 /home/gabriel/Music/liana flores - rises the moon.ogg
@@ -92,9 +94,9 @@
 /home/gabriel/Music/Low Roar - Slow Down.ogg
 /home/gabriel/Music/Low Roar - St. Eriksplan.ogg
 /home/gabriel/Music/Low Roar - Without You.ogg
+/home/gabriel/Music/Lynyrd Skynyrd - Free Bird.ogg
 /home/gabriel/Music/Michael Giacchino - Bundle Of Joy - Inside Out Score.ogg
 /home/gabriel/Music/Michael Giacchino - Jyn Erso & Hope Suite - Rogue One - A Star Wars Story Score.ogg
-/home/gabriel/Music/Michael Giacchino - Ratatouille Main Theme.ogg
 /home/gabriel/Music/Miley Cyrus - Jolene - The Backyard Sessions.ogg
 /home/gabriel/Music/Minecraft OST - Aria Math.ogg
 /home/gabriel/Music/Minecraft OST - Cat.ogg
@@ -110,11 +112,8 @@
 /home/gabriel/Music/Night in the Woods OST - Longest Night.ogg
 /home/gabriel/Music/Night in the Woods OST - Title.ogg
 /home/gabriel/Music/OK Go - Needing⧸Getting (Video).ogg
-/home/gabriel/Music/Ok Go - Obsession.ogg
 /home/gabriel/Music/OK Go - Skyscrapers.ogg
-/home/gabriel/Music/OK Go - The One Moment.ogg
-/home/gabriel/Music/OK Go - This.ogg
-/home/gabriel/Music/OK Go - This Too Shall Pass.ogg
+/home/gabriel/Music/OK Go - WTF?.ogg
 /home/gabriel/Music/Oppenheimer OST - Can You Hear The Music.ogg
 /home/gabriel/Music/Plants vs. Zombies OST - Brainiac Maniac.ogg
 /home/gabriel/Music/Plants vs. Zombies OST - Graze the Roof.ogg
@@ -122,6 +121,7 @@
 /home/gabriel/Music/Portal 2 OST - Love as a Construct.ogg
 /home/gabriel/Music/Portal 2 OST - The Friendly Faith Plate.ogg
 /home/gabriel/Music/Rimworld OST - Rough Trail.ogg
+/home/gabriel/Music/Simon & Garfunkel - Flowers Never Bend with the Rainfall.ogg
 /home/gabriel/Music/Simon & Garfunkel - I Am a Rock.ogg
 /home/gabriel/Music/Simon & Garfunkel - Scarborough Fair⧸Canticle.ogg
 /home/gabriel/Music/Simon & Garfunkel - The Boxer.ogg
@@ -138,6 +138,7 @@
 /home/gabriel/Music/The Crane Wives - Can't Have It All.ogg
 /home/gabriel/Music/The Crane Wives - Curses.ogg
 /home/gabriel/Music/The Crane Wives - Easier.ogg
+/home/gabriel/Music/The Crane Wives - How to Rest.ogg
 /home/gabriel/Music/The Crane Wives - Icarus.ogg
 /home/gabriel/Music/The Crane Wives - Little Soldiers.ogg
 /home/gabriel/Music/The Crane Wives - Metaphor.ogg
@@ -165,6 +166,7 @@
 /home/gabriel/Music/The Oh Hellos - Lapis Lazuli.ogg
 /home/gabriel/Music/The Oh Hellos - On the Mountain Tall.ogg
 /home/gabriel/Music/The Oh Hellos - O Sleeper.ogg
+/home/gabriel/Music/The Oh Hellos - Pale White Horse.ogg
 /home/gabriel/Music/The Oh Hellos - Passerine.ogg
 /home/gabriel/Music/The Oh Hellos - Rio Grande.ogg
 /home/gabriel/Music/The Oh Hellos - Rose.ogg
@@ -175,7 +177,6 @@
 /home/gabriel/Music/The Oh Hellos - The Valley.ogg
 /home/gabriel/Music/The Oh Hellos - Torches.ogg
 /home/gabriel/Music/The Oh Hellos - Where Is Your Rider.ogg
-/home/gabriel/Music/The Prince Of Egypt Score - The Plagues.ogg
 /home/gabriel/Music/Todd Baker - An Endless Desert - Alto's Odyssey OST.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - In Circles.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - Old Friends.ogg
@@ -184,7 +185,6 @@
 /home/gabriel/Music/Transistor Original Soundtrack - The Spine.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - We All Become.ogg
 /home/gabriel/Music/Undertale OST - Death By Glamour.ogg
-/home/gabriel/Music/Undertale OST - It's Raining Somewhere Else.ogg
 /home/gabriel/Music/Warhammer 40,000 Mechanicus Soundtrack - Children of the Omnissiah.ogg
 /home/gabriel/Music/Whiplash OST - Caravan.ogg
 /home/gabriel/Music/孫燕姿 Stefanie Sun - 风衣.ogg

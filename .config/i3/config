@@ -19,10 +19,10 @@ client.focused_inactive "#44475a" "#44475a" "#44475a" "#44475a"
 client.unfocused "#44475a" "#44475a" "#44475a" "#44475a"
 client.urgent "#ffb86c" "#ffb86c" "#ffb86c" "#ffb86c"
 
-exec --no-startup-id systemctl start bluetooth.service
+# exec --no-startup-id systemctl start bluetooth.service
 exec --no-startup-id xrandr --dpi 90
 exec --no-startup-id brightnessctl s 20%
-exec --no-startup-id blueman-applet
+# exec --no-startup-id blueman-applet
 exec --no-startup-id nm-applet
 exec --no-startup-id /home/gabriel/.config/i3/config.py
 exec --no-startup-id picom -b
