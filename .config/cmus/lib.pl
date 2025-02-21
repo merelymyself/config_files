@@ -198,4 +198,3 @@
 /home/gabriel/Music/薛之谦 Joker Xue - 摩天高楼.ogg
 /home/gabriel/Music/薛之谦 Joker Xue - 火星人来过.ogg
 /home/gabriel/Music/薛之谦 Joker Xue - 骆驼.ogg
-/home/gabriel/Music/陈泳彤 Jennifer Chan - 说散就散.ogg
