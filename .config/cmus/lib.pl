@@ -1,5 +1,4 @@
 /home/gabriel/Music/Bastion OST - Build That Wall (Zia's Theme).ogg
-/home/gabriel/Music/Benson Boone - Beautiful Things.ogg
 /home/gabriel/Music/Berlinist - Debris - Gris OST.ogg
 /home/gabriel/Music/Camille, Michael Giacchino - Le Festin.ogg
 /home/gabriel/Music/Celeste B-Sides OST - 2 Mello - Mirror Temple (Mirror Magic Mix).ogg
@@ -24,8 +23,6 @@
 /home/gabriel/Music/Cuphead OST - High-Noon Hoopla.ogg
 /home/gabriel/Music/Cuphead OST - High Seas Hi-Jinx.ogg
 /home/gabriel/Music/Cuphead OST - Murine Corps.ogg
-/home/gabriel/Music/Danger Mouse, Daniele Luppi - Two Against One ft. Jack White.ogg
-/home/gabriel/Music/Daniel Pemberton - The Prowler - Spider-Man: Into the Spider-Verse Score.ogg
 /home/gabriel/Music/Deltarune OST - BIG SHOT.ogg
 /home/gabriel/Music/Deltarune OST - THE WORLD REVOLVING.ogg
 /home/gabriel/Music/Disco Elysium OST - Whirling Cafeteria (Day).ogg
@@ -50,7 +47,6 @@
 /home/gabriel/Music/Hitomi - LOVE 2000 (CV: Hikaru Tono).ogg
 /home/gabriel/Music/Hollow Knight OST - City of Tears.ogg
 /home/gabriel/Music/Hollow Knight OST - Hornet.ogg
-/home/gabriel/Music/Hollow Knight OST - Pale Court.ogg
 /home/gabriel/Music/Hollow Knight: Silksong OST - Bonebottom.ogg
 /home/gabriel/Music/Hollow Knight: Silksong OST - Lace.ogg
 /home/gabriel/Music/House Of The Dragon Soundtrack - Protector of the Realm.ogg
@@ -78,7 +74,6 @@
 /home/gabriel/Music/Katana Zero OST - Katana Zero.ogg
 /home/gabriel/Music/Katana Zero OST - Rain on Brick.ogg
 /home/gabriel/Music/Katana Zero OST - Sneaky Driver.ogg
-/home/gabriel/Music/Katana Zero OST - Snow.ogg
 /home/gabriel/Music/Katana Zero OST - You Will Never Know.ogg
 /home/gabriel/Music/Laufey - Falling Behind.ogg
 /home/gabriel/Music/liana flores - recently,.ogg
@@ -101,7 +96,6 @@
 /home/gabriel/Music/Minecraft OST - Aria Math.ogg
 /home/gabriel/Music/Minecraft OST - Cat.ogg
 /home/gabriel/Music/Minecraft OST - Kyoto.ogg
-/home/gabriel/Music/Minecraft OST - Pigstep.ogg
 /home/gabriel/Music/Minecraft OST - Stal.ogg
 /home/gabriel/Music/Minecraft OST - Sweden.ogg
 /home/gabriel/Music/Minecraft OST - Wet Hands.ogg
@@ -111,6 +105,12 @@
 /home/gabriel/Music/Monument Valley 2 OST - Child.ogg
 /home/gabriel/Music/Night in the Woods OST - Longest Night.ogg
 /home/gabriel/Music/Night in the Woods OST - Title.ogg
+/home/gabriel/Music/Noah Floersch - Ghost of Chicago.ogg
+/home/gabriel/Music/Noah Floersch - Loneliest Girl in the World.ogg
+/home/gabriel/Music/Noah Floersch - Long Gone.ogg
+/home/gabriel/Music/Noah Floersch - Memoryology.ogg
+/home/gabriel/Music/Noah Floersch - Silver Lining.ogg
+/home/gabriel/Music/Noah Floersch - Thompson's Station.ogg
 /home/gabriel/Music/OK Go - Needing⧸Getting (Video).ogg
 /home/gabriel/Music/OK Go - Skyscrapers.ogg
 /home/gabriel/Music/OK Go - WTF?.ogg
@@ -122,7 +122,6 @@
 /home/gabriel/Music/Portal 2 OST - The Friendly Faith Plate.ogg
 /home/gabriel/Music/Rimworld OST - Rough Trail.ogg
 /home/gabriel/Music/Simon & Garfunkel - Flowers Never Bend with the Rainfall.ogg
-/home/gabriel/Music/Simon & Garfunkel - I Am a Rock.ogg
 /home/gabriel/Music/Simon & Garfunkel - Scarborough Fair⧸Canticle.ogg
 /home/gabriel/Music/Simon & Garfunkel - The Boxer.ogg
 /home/gabriel/Music/Simon & Garfunkel - The Sounds of Silence.ogg
@@ -144,6 +143,7 @@
 /home/gabriel/Music/The Crane Wives - Metaphor.ogg
 /home/gabriel/Music/The Crane Wives - The Diving Bell.ogg
 /home/gabriel/Music/The Crane Wives - The Moon Will Sing.ogg
+/home/gabriel/Music/The Crane Wives - Time Will Change You.ogg
 /home/gabriel/Music/The Crane Wives - Tongues _ Teeth.ogg
 /home/gabriel/Music/The Crane Wives - Turn Out The Lights.ogg
 /home/gabriel/Music/The Hunchback Of Notre Dame Score - Heaven's Light⧸Hellfire.ogg
@@ -187,6 +187,7 @@
 /home/gabriel/Music/Undertale OST - Death By Glamour.ogg
 /home/gabriel/Music/Warhammer 40,000 Mechanicus Soundtrack - Children of the Omnissiah.ogg
 /home/gabriel/Music/Whiplash OST - Caravan.ogg
+/home/gabriel/Music/ZUTOMAYO - TAIDADA.ogg
 /home/gabriel/Music/孫燕姿 Stefanie Sun - 风衣.ogg
 /home/gabriel/Music/李榮浩 Li Ronghao - 年少有為.ogg
 /home/gabriel/Music/李榮浩 Li Ronghao - 李白.ogg
