@@ -75,11 +75,11 @@
 /home/gabriel/Music/Katana Zero OST - Rain on Brick.ogg
 /home/gabriel/Music/Katana Zero OST - Sneaky Driver.ogg
 /home/gabriel/Music/Katana Zero OST - You Will Never Know.ogg
+/home/gabriel/Music/Laufey - Above The Chinese Restaurant.ogg
 /home/gabriel/Music/Laufey - Falling Behind.ogg
 /home/gabriel/Music/liana flores - recently,.ogg
 /home/gabriel/Music/liana flores - rises the moon.ogg
 /home/gabriel/Music/Louie Zong - thumbnail (ft. brian david gilbert).ogg
-/home/gabriel/Music/Low Roar - Bones (feat. Jófríõur Ákadóttir) [Official Audio].ogg
 /home/gabriel/Music/Low Roar - Don't Be So Serious.ogg
 /home/gabriel/Music/Low Roar - Give Me An Answer.ogg
 /home/gabriel/Music/Low Roar - "I'll Keep Coming".ogg
@@ -105,12 +105,15 @@
 /home/gabriel/Music/Monument Valley 2 OST - Child.ogg
 /home/gabriel/Music/Night in the Woods OST - Longest Night.ogg
 /home/gabriel/Music/Night in the Woods OST - Title.ogg
+/home/gabriel/Music/Noah Floersch - 10 Years.ogg
+/home/gabriel/Music/Noah Floersch - Cyanide.ogg
 /home/gabriel/Music/Noah Floersch - Ghost of Chicago.ogg
 /home/gabriel/Music/Noah Floersch - Loneliest Girl in the World.ogg
 /home/gabriel/Music/Noah Floersch - Long Gone.ogg
 /home/gabriel/Music/Noah Floersch - Memoryology.ogg
 /home/gabriel/Music/Noah Floersch - Silver Lining.ogg
 /home/gabriel/Music/Noah Floersch - Thompson's Station.ogg
+/home/gabriel/Music/Noah Floersch - Woman.ogg
 /home/gabriel/Music/OK Go - Needing⧸Getting (Video).ogg
 /home/gabriel/Music/OK Go - Skyscrapers.ogg
 /home/gabriel/Music/OK Go - WTF?.ogg
