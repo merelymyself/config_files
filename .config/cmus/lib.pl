@@ -1,17 +1,17 @@
-/home/gabriel/Music/Bastion OST - Build That Wall (Zia's Theme).ogg
+/home/gabriel/Music/Bastion OST - Build That Wall (Zia_s Theme).ogg
 /home/gabriel/Music/Berlinist - Debris - Gris OST.ogg
 /home/gabriel/Music/Camille, Michael Giacchino - Le Festin.ogg
 /home/gabriel/Music/Celeste B-Sides OST - 2 Mello - Mirror Temple (Mirror Magic Mix).ogg
 /home/gabriel/Music/Celeste B-Sides OST - Christa Lee - Celestial Resort (Good Karma Mix).ogg
 /home/gabriel/Music/Celeste OST - Resurrections.ogg
 /home/gabriel/Music/Celeste OST - Scattered and Lost.ogg
-/home/gabriel/Music/Chris Christodoulou - Chanson d'Automne.. - Risk of Rain OST.ogg
+/home/gabriel/Music/Chris Christodoulou - Chanson d_Automne.. - Risk of Rain OST.ogg
 /home/gabriel/Music/Chris Christodoulou - Coalescence - Risk of Rain OST.ogg
 /home/gabriel/Music/Chris Christodoulou - ...con lentitud poderosa - Risk of Rain 2 OST.ogg
 /home/gabriel/Music/Chris Christodoulou - Into the Doldrums - Risk of Rain 2 OST.ogg
 /home/gabriel/Music/Chris Christodoulou - The Raindrop that Fell to the Sky - Risk of Rain 2 OST.ogg
 /home/gabriel/Music/Chris Christodoulou - The Rain Formerly Known as Purple - Risk of Rain 2 OST.ogg
-/home/gabriel/Music/Chris Christodoulou - They Might As Well Be Dead - ROR2: Survivors of the Void OST.ogg
+/home/gabriel/Music/Chris Christodoulou - They Might As Well Be Dead - ROR2_ Survivors of the Void OST.ogg
 /home/gabriel/Music/city girl - a light is never dim, cold or alone.ogg
 /home/gabriel/Music/city girl - winter fields (feat. mklachu).ogg
 /home/gabriel/Music/Cowboy Bebop OST - Clutch.ogg
@@ -26,8 +26,8 @@
 /home/gabriel/Music/Deltarune OST - BIG SHOT.ogg
 /home/gabriel/Music/Deltarune OST - THE WORLD REVOLVING.ogg
 /home/gabriel/Music/Disco Elysium OST - Whirling Cafeteria (Day).ogg
-/home/gabriel/Music/Evan Call - Frieren the Slayer (Frieren: Beyond Journey's End).ogg
-/home/gabriel/Music/Evan Call - Zoltraak (Frieren: Beyond Journey's End).ogg
+/home/gabriel/Music/Evan Call - Frieren the Slayer (Frieren_ Beyond Journey_s End).ogg
+/home/gabriel/Music/Evan Call - Zoltraak (Frieren_ Beyond Journey_s End).ogg
 /home/gabriel/Music/FE Three Houses OST - God Shattering Star (Rain).ogg
 /home/gabriel/Music/Franz Ferdinand - Take Me Out.ogg
 /home/gabriel/Music/Franz Ferdinand - This Fire.ogg
@@ -36,7 +36,7 @@
 /home/gabriel/Music/Game of Thrones Soundtrack - The Thone Is Mine.ogg
 /home/gabriel/Music/Gunpoint OST - Defenestraight To My Heart.ogg
 /home/gabriel/Music/Gunpoint OST - Main Theme (Melancholia).ogg
-/home/gabriel/Music/Gunpoint OST - 'Round Gunpoint.ogg
+/home/gabriel/Music/Gunpoint OST - _Round Gunpoint.ogg
 /home/gabriel/Music/Gunpoint OST - The Five-Floor Goodbye.ogg
 /home/gabriel/Music/Hades OST - Good Riddance (feat. Ashley Barrett).ogg
 /home/gabriel/Music/Hades OST - Hymn to Zagreus.ogg
@@ -44,11 +44,11 @@
 /home/gabriel/Music/Half-Life 2 OST - CP Violation.ogg
 /home/gabriel/Music/Half-Life 2 OST - Triage at Dawn.ogg
 /home/gabriel/Music/Half-Life Alyx OST - HIRE.ogg
-/home/gabriel/Music/Hitomi - LOVE 2000 (CV: Hikaru Tono).ogg
+/home/gabriel/Music/Hitomi - LOVE 2000 (CV_ Hikaru Tono).ogg
 /home/gabriel/Music/Hollow Knight OST - City of Tears.ogg
 /home/gabriel/Music/Hollow Knight OST - Hornet.ogg
-/home/gabriel/Music/Hollow Knight: Silksong OST - Bonebottom.ogg
-/home/gabriel/Music/Hollow Knight: Silksong OST - Lace.ogg
+/home/gabriel/Music/Hollow Knight_ Silksong OST - Bonebottom.ogg
+/home/gabriel/Music/Hollow Knight_ Silksong OST - Lace.ogg
 /home/gabriel/Music/House Of The Dragon Soundtrack - Protector of the Realm.ogg
 /home/gabriel/Music/How To Train Your Dragon Score - Romantic Flight.ogg
 /home/gabriel/Music/Hozier - Too Sweet.ogg
@@ -58,11 +58,11 @@
 /home/gabriel/Music/JJK S2 OST - 伏魔御廚子.ogg
 /home/gabriel/Music/JJK S2 OST - 霹靂.ogg
 /home/gabriel/Music/Joe Hisaishi - Confessions in the Moonlight (from Castle In The Sky).ogg
-/home/gabriel/Music/Joe Hisaishi - Merry-Go-Round of Life (from Howl's Moving Castle).ogg
+/home/gabriel/Music/Joe Hisaishi - Merry-Go-Round of Life (from Howl_s Moving Castle).ogg
 /home/gabriel/Music/Joe Hisaishi - Mononoke Hime (from Princess Mononoke).ogg
-/home/gabriel/Music/Joe Hisaishi - One Summer's Day (from Spirited Away Score).ogg
+/home/gabriel/Music/Joe Hisaishi - One Summer_s Day (from Spirited Away Score).ogg
 /home/gabriel/Music/Joe Hisaishi - Path of the Wind (from My Neighbour Totoro).ogg
-/home/gabriel/Music/Joe Hisaishi - The Legend of Ashitaka (Symphonic Suite "Princess Mononoke" - Live).ogg
+/home/gabriel/Music/Joe Hisaishi - The Legend of Ashitaka (Symphonic Suite _Princess Mononoke_ - Live).ogg
 /home/gabriel/Music/Joe Hisaishi - The Sixth Station (from Spirited Away Score).ogg
 /home/gabriel/Music/John Coltrane - Giant Steps.ogg
 /home/gabriel/Music/John Michael Howell - Mr. Feel.ogg
@@ -80,10 +80,10 @@
 /home/gabriel/Music/liana flores - recently,.ogg
 /home/gabriel/Music/liana flores - rises the moon.ogg
 /home/gabriel/Music/Louie Zong - thumbnail (ft. brian david gilbert).ogg
-/home/gabriel/Music/Low Roar - Don't Be So Serious.ogg
+/home/gabriel/Music/Low Roar - Don_t Be So Serious.ogg
 /home/gabriel/Music/Low Roar - Give Me An Answer.ogg
-/home/gabriel/Music/Low Roar - "I'll Keep Coming".ogg
-/home/gabriel/Music/Low Roar - I Won't Be Long.ogg
+/home/gabriel/Music/Low Roar - _I_ll Keep Coming_.ogg
+/home/gabriel/Music/Low Roar - I Won_t Be Long.ogg
 /home/gabriel/Music/Low Roar - Nobody Loves Me Like You.ogg
 /home/gabriel/Music/Low Roar - Poznan.ogg
 /home/gabriel/Music/Low Roar - Slow Down.ogg
@@ -112,11 +112,11 @@
 /home/gabriel/Music/Noah Floersch - Long Gone.ogg
 /home/gabriel/Music/Noah Floersch - Memoryology.ogg
 /home/gabriel/Music/Noah Floersch - Silver Lining.ogg
-/home/gabriel/Music/Noah Floersch - Thompson's Station.ogg
+/home/gabriel/Music/Noah Floersch - Thompson_s Station.ogg
 /home/gabriel/Music/Noah Floersch - Woman.ogg
 /home/gabriel/Music/OK Go - Needing⧸Getting (Video).ogg
 /home/gabriel/Music/OK Go - Skyscrapers.ogg
-/home/gabriel/Music/OK Go - WTF?.ogg
+/home/gabriel/Music/OK Go - WTF_.ogg
 /home/gabriel/Music/Oppenheimer OST - Can You Hear The Music.ogg
 /home/gabriel/Music/Plants vs. Zombies OST - Brainiac Maniac.ogg
 /home/gabriel/Music/Plants vs. Zombies OST - Graze the Roof.ogg
@@ -137,7 +137,7 @@
 /home/gabriel/Music/The Bells of Notre Dame.ogg
 /home/gabriel/Music/The City Must Survive.ogg
 /home/gabriel/Music/The Crane Wives - Canary in a Coal Mine.ogg
-/home/gabriel/Music/The Crane Wives - Can't Have It All.ogg
+/home/gabriel/Music/The Crane Wives - Can_t Have It All.ogg
 /home/gabriel/Music/The Crane Wives - Curses.ogg
 /home/gabriel/Music/The Crane Wives - Easier.ogg
 /home/gabriel/Music/The Crane Wives - How to Rest.ogg
@@ -149,9 +149,9 @@
 /home/gabriel/Music/The Crane Wives - Time Will Change You.ogg
 /home/gabriel/Music/The Crane Wives - Tongues _ Teeth.ogg
 /home/gabriel/Music/The Crane Wives - Turn Out The Lights.ogg
-/home/gabriel/Music/The Hunchback Of Notre Dame Score - Heaven's Light⧸Hellfire.ogg
-/home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Mipha's Theme.ogg
-/home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Revali's Theme.ogg
+/home/gabriel/Music/The Hunchback Of Notre Dame Score - Heaven_s Light⧸Hellfire.ogg
+/home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Mipha_s Theme.ogg
+/home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Revali_s Theme.ogg
 /home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Riding - Night.ogg
 /home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Rito Village - Night.ogg
 /home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Stables.ogg
@@ -180,7 +180,7 @@
 /home/gabriel/Music/The Oh Hellos - The Valley.ogg
 /home/gabriel/Music/The Oh Hellos - Torches.ogg
 /home/gabriel/Music/The Oh Hellos - Where Is Your Rider.ogg
-/home/gabriel/Music/Todd Baker - An Endless Desert - Alto's Odyssey OST.ogg
+/home/gabriel/Music/Todd Baker - An Endless Desert - Alto_s Odyssey OST.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - In Circles.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - Old Friends.ogg
 /home/gabriel/Music/Transistor Original Soundtrack - Paper Boats.ogg
