@@ -50,4 +50,4 @@ if [[ $# -gt 0 ]]; then git commit -m "$@"
 else git commit -m "Date is: $(date)"
 fi
 
-git push upstream main
+git push origin main
