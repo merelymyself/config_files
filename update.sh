@@ -6,6 +6,8 @@ cp -r ~/.config/macchina/ ./.config/
 
 cp -r ~/.config/alacritty/ ./.config/
 
+cp -r ~/.config/rofi/config.rasi ./.config/rofi/
+
 cp -r ~/.config/nvim/ ./.config/
 
 cp ~/.config/cmus/rc ./.config/cmus/
