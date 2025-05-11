@@ -1,6 +1,5 @@
 /home/gabriel/Music/Bastion OST - Build That Wall (Zia_s Theme).ogg
 /home/gabriel/Music/Berlinist - Debris - Gris OST.ogg
-/home/gabriel/Music/Camille, Michael Giacchino - Le Festin.ogg
 /home/gabriel/Music/Celeste B-Sides OST - 2 Mello - Mirror Temple (Mirror Magic Mix).ogg
 /home/gabriel/Music/Celeste B-Sides OST - Christa Lee - Celestial Resort (Good Karma Mix).ogg
 /home/gabriel/Music/Celeste OST - Resurrections.ogg
@@ -123,7 +122,6 @@
 /home/gabriel/Music/Plants vs. Zombies OST - Watery Graves.ogg
 /home/gabriel/Music/Portal 2 OST - Love as a Construct.ogg
 /home/gabriel/Music/Portal 2 OST - The Friendly Faith Plate.ogg
-/home/gabriel/Music/Rimworld OST - Rough Trail.ogg
 /home/gabriel/Music/Simon & Garfunkel - Flowers Never Bend with the Rainfall.ogg
 /home/gabriel/Music/Simon & Garfunkel - Scarborough Fair⧸Canticle.ogg
 /home/gabriel/Music/Simon & Garfunkel - The Boxer.ogg
@@ -192,7 +190,6 @@
 /home/gabriel/Music/Whiplash OST - Caravan.ogg
 /home/gabriel/Music/ZUTOMAYO - TAIDADA.ogg
 /home/gabriel/Music/孫燕姿 Stefanie Sun - 风衣.ogg
-/home/gabriel/Music/李榮浩 Li Ronghao - 年少有為.ogg
 /home/gabriel/Music/李榮浩 Li Ronghao - 李白.ogg
 /home/gabriel/Music/蔡健雅 Tanya Chua - 别找我麻烦.ogg
 /home/gabriel/Music/蔡健雅 Tanya Chua - 红色高跟鞋.ogg

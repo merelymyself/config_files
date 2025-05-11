@@ -13,11 +13,11 @@ set $browser firefox
 gaps outer 1
 gaps inner 8
 
-for_window [class=".*"] border pixel 3
-client.focused "#bd93f9" "#bd93f9" "#bd93f9" "#ff5555"
-client.focused_inactive "#44475a" "#44475a" "#44475a" "#44475a"
-client.unfocused "#44475a" "#44475a" "#44475a" "#44475a"
-client.urgent "#ffb86c" "#ffb86c" "#ffb86c" "#ffb86c"
+for_window [class=".*"] border pixel 0
+#client.focused "#bd93f9" "#bd93f9" "#bd93f9" "#BD93F9"
+client.focused "#282A36" "#282A36" "#282A36" "#50FA7B"
+# client.focused_inactive "#282A36" "#282A36" "#282A36" "#282A36"
+# client.unfocused "#282A36" "#282A36" "#282A36" "#282A36"
 
 # exec --no-startup-id systemctl start bluetooth.service
 exec --no-startup-id xrandr --dpi 90
@@ -27,7 +27,7 @@ exec --no-startup-id nm-applet
 exec --no-startup-id /home/gabriel/.config/i3/config.py
 exec --no-startup-id picom -b
 exec --no-startup-id dunst
-exec --no-startup-id fcitx5
+# exec --no-startup-id fcitx5
 exec --no-startup-id xset -b
 exec --no-startup-id copyq &
 exec --no-startup-id setxkbmap -model pc105 -layout 'us,cn' -option 'grp:win_space_toggle'
