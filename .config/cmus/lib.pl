@@ -1,9 +1,7 @@
-/home/gabriel/Music/Noah Floersch - I Will Always Find You.ogg
 /home/gabriel/Music/Bastion OST - Build That Wall (Zia_s Theme).ogg
 /home/gabriel/Music/Berlinist - Debris - Gris OST.ogg
 /home/gabriel/Music/Celeste B-Sides OST - 2 Mello - Mirror Temple (Mirror Magic Mix).ogg
 /home/gabriel/Music/Celeste B-Sides OST - Christa Lee - Celestial Resort (Good Karma Mix).ogg
-/home/gabriel/Music/Celeste OST - Resurrections.ogg
 /home/gabriel/Music/Celeste OST - Scattered and Lost.ogg
 /home/gabriel/Music/Chris Christodoulou - Chanson d_Automne.. - Risk of Rain OST.ogg
 /home/gabriel/Music/Chris Christodoulou - Coalescence - Risk of Rain OST.ogg
@@ -108,6 +106,7 @@
 /home/gabriel/Music/Noah Floersch - 10 Years.ogg
 /home/gabriel/Music/Noah Floersch - Cyanide.ogg
 /home/gabriel/Music/Noah Floersch - Ghost of Chicago.ogg
+/home/gabriel/Music/Noah Floersch - I Will Always Find You.ogg
 /home/gabriel/Music/Noah Floersch - Loneliest Girl in the World.ogg
 /home/gabriel/Music/Noah Floersch - Long Gone.ogg
 /home/gabriel/Music/Noah Floersch - Memoryology.ogg
@@ -117,6 +116,7 @@
 /home/gabriel/Music/OK Go - Needing⧸Getting (Video).ogg
 /home/gabriel/Music/OK Go - Skyscrapers.ogg
 /home/gabriel/Music/OK Go - WTF_.ogg
+/home/gabriel/Music/Olivia Rodrigo - girl i've always been.ogg
 /home/gabriel/Music/Oppenheimer OST - Can You Hear The Music.ogg
 /home/gabriel/Music/Plants vs. Zombies OST - Brainiac Maniac.ogg
 /home/gabriel/Music/Plants vs. Zombies OST - Graze the Roof.ogg
