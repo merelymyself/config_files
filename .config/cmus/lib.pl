@@ -1,3 +1,4 @@
+/home/gabriel/Music/Noah Floersch - I Will Always Find You.ogg
 /home/gabriel/Music/Bastion OST - Build That Wall (Zia_s Theme).ogg
 /home/gabriel/Music/Berlinist - Debris - Gris OST.ogg
 /home/gabriel/Music/Celeste B-Sides OST - 2 Mello - Mirror Temple (Mirror Magic Mix).ogg
@@ -130,7 +131,6 @@
 /home/gabriel/Music/Surviving Mars OST - AG.ogg
 /home/gabriel/Music/Surviving Mars OST - CaCO3.ogg
 /home/gabriel/Music/Surviving Mars OST - Si02.ogg
-/home/gabriel/Music/The Altogether - Goodbye.ogg
 /home/gabriel/Music/The Arcadian Wild - Envy Green.ogg
 /home/gabriel/Music/The Bells of Notre Dame.ogg
 /home/gabriel/Music/The City Must Survive.ogg
