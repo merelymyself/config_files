@@ -1,5 +1,6 @@
 /home/gabriel/Music/Bastion OST - Build That Wall (Zia_s Theme).ogg
 /home/gabriel/Music/Berlinist - Debris - Gris OST.ogg
+/home/gabriel/Music/Bleachers - Merry Christmas, Please Don't Call.ogg
 /home/gabriel/Music/Celeste B-Sides OST - 2 Mello - Mirror Temple (Mirror Magic Mix).ogg
 /home/gabriel/Music/Celeste B-Sides OST - Christa Lee - Celestial Resort (Good Karma Mix).ogg
 /home/gabriel/Music/Celeste OST - Scattered and Lost.ogg
@@ -39,7 +40,6 @@
 /home/gabriel/Music/Hades OST - Good Riddance (feat. Ashley Barrett).ogg
 /home/gabriel/Music/Hades OST - Hymn to Zagreus.ogg
 /home/gabriel/Music/Hades OST - The Unseen Ones (ft. Masahiro Aoki and Daisuke Kurosawa).ogg
-/home/gabriel/Music/Half-Life 2 OST - CP Violation.ogg
 /home/gabriel/Music/Half-Life 2 OST - Triage at Dawn.ogg
 /home/gabriel/Music/Half-Life Alyx OST - HIRE.ogg
 /home/gabriel/Music/Hitomi - LOVE 2000 (CV_ Hikaru Tono).ogg
@@ -143,6 +143,7 @@
 /home/gabriel/Music/The Crane Wives - Little Soldiers.ogg
 /home/gabriel/Music/The Crane Wives - Metaphor.ogg
 /home/gabriel/Music/The Crane Wives - The Diving Bell.ogg
+/home/gabriel/Music/The Crane Wives - The Glacier House.ogg
 /home/gabriel/Music/The Crane Wives - The Moon Will Sing.ogg
 /home/gabriel/Music/The Crane Wives - Time Will Change You.ogg
 /home/gabriel/Music/The Crane Wives - Tongues _ Teeth.ogg
@@ -152,7 +153,6 @@
 /home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Revali_s Theme.ogg
 /home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Riding - Night.ogg
 /home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Rito Village - Night.ogg
-/home/gabriel/Music/The Legend of Zelda - Breath of the Wild OST - Stables.ogg
 /home/gabriel/Music/The Legend of Zelda - Ocarina of Time OST - Title Theme.ogg
 /home/gabriel/Music/The Oh Hellos - Bitter Water.ogg
 /home/gabriel/Music/The Oh Hellos - Caesar.ogg
