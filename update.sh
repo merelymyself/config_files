@@ -38,6 +38,11 @@ cp ~/.config/swaylock/config ./.config/swaylock/
 
 cp /etc/ly/config.ini ./etc/ly
 
+cp /etc/sddm.conf.d/default.conf ./etc/sddm.conf.d/
+cp /etc/sddm.conf ./etc
+
+cp -r /usr/share/sddm/themes/where_is_my_sddm_theme ./usr/share/sddm/themes/
+
 cp ~/.local/share/applications/Lock.desktop ./.local/share/applications/
 cp ~/.local/share/applications/Logout.desktop ./.local/share/applications/
 cp ~/.local/share/applications/Shutdown.desktop ./.local/share/applications/

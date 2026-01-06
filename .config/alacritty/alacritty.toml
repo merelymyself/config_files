@@ -76,22 +76,22 @@ foreground = "#f1fa8c"
 background = "#282a36"
 
 [font]
-size = 12
+size = 14
 
 [font.bold]
-family = "JetBrainsMonoNL NFM"
+family = "Iosevka"
 style = "Bold"
 
 [font.bold_italic]
-family = "JetBrainsMonoNL NFM"
+family = "Iosevka"
 style = "Bold Italic"
 
 [font.italic]
-family = "JetBrainsMonoNL NFM"
+family = "Iosevka"
 style = "Italic"
 
 [font.normal]
-family = "JetBrainsMonoNL NFM"
+family = "Iosevka"
 style = "Regular"
 
 [window]

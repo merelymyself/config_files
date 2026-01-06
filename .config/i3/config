@@ -21,7 +21,7 @@ client.focused "#282A36" "#282A36" "#282A36" "#50FA7B"
 
 # exec --no-startup-id systemctl start bluetooth.service
 exec --no-startup-id xrandr --dpi 90
-exec --no-startup-id brightnessctl s 20%
+exec --no-startup-id brightnessctl s 30%
 # exec --no-startup-id blueman-applet
 exec --no-startup-id nm-applet
 exec --no-startup-id /home/gabriel/.config/i3/config.py
